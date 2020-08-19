@@ -1,0 +1,17 @@
+13
+main sub_400FB4 igs_cfg_request_send sub_4009F4 main sub_400FB4 sub_400FB4 igs_cfg_request_send igs_cfg_request_send igs_cfg_request_send igs_cfg_request_send igs_cfg_request_send sub_4009F4 
+ igs_cfg_request_send
+ igs_cfg_request_send
+ igs_cfg_request_send
+sub_400FB4 igs_cfg_request_send
+ igs_cfg_request_send
+sub_4009F4 sub_4009F4
+main main
+sub_400FB4 sub_400FB4
+sub_400FB4 sub_400FB4
+igs_cfg_request_send igs_cfg_request_send
+igs_cfg_request_send igs_cfg_request_send
+igs_cfg_request_send igs_cfg_request_send
+igs_cfg_request_send igs_cfg_request_send
+igs_cfg_request_send igs_cfg_request_send
+main sub_4009F4

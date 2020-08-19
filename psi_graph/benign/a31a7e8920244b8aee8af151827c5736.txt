@@ -1,0 +1,10 @@
+9
+sub_401534 _ZN6vectorI6stringED2Ev sub_401534 _ftext _ftext _ftext _ftext _ftext _ftext 
+_ftext sub_401534
+_ftext _ZN6vectorI6stringED2Ev
+sub_401534 sub_401534
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext

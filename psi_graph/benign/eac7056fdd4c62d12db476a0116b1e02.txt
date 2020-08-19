@@ -1,0 +1,24 @@
+22
+sub_8B14 sub_8C40 sub_8DE8 sub_8B14 sub_8B14 sub_8C40 sub_89E4 sub_89E4 sub_89E4 sub_89E4 sub_8B14 sub_8C40 sub_8B14 sub_8B14 sub_8C40 sub_8DE8 sub_8DE8 sub_8DE8 sub_8DE8 sub_8DE8 sub_8DE8 sub_89E4 
+sub_8DE8 sub_8B14
+sub_8DE8 sub_8C40
+sub_8B14 sub_8B14
+sub_8B14 sub_8B14
+sub_8B14 sub_8B14
+sub_8C40 sub_8C40
+sub_89E4 sub_89E4
+sub_89E4 sub_89E4
+sub_89E4 sub_89E4
+sub_89E4 sub_89E4
+sub_8B14 sub_8B14
+sub_8C40 sub_8C40
+sub_8B14 sub_8B14
+sub_8B14 sub_8B14
+sub_8C40 sub_8C40
+sub_8DE8 sub_8DE8
+sub_8DE8 sub_8DE8
+sub_8DE8 sub_8DE8
+sub_8DE8 sub_8DE8
+sub_8DE8 sub_8DE8
+sub_8DE8 sub_8DE8
+sub_8DE8 sub_89E4

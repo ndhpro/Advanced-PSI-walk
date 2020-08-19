@@ -1,0 +1,7 @@
+6
+got_wan_ip got_wan_hwaddr is_phyconnected dumparptable main _ftext 
+main got_wan_ip
+main got_wan_ip
+dumparptable got_wan_hwaddr
+main is_phyconnected
+main dumparptable

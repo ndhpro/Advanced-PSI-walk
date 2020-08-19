@@ -1,0 +1,7 @@
+5
+main _ftext main main _ftext 
+_ftext main
+_ftext _ftext
+main main
+main main
+main _ftext

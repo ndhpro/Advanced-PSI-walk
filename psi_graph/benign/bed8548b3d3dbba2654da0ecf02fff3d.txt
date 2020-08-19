@@ -1,0 +1,21 @@
+20
+nvram_save nvram_restore main get_rand get_rand nvram_save nvram_save nvram_restore nvram_restore nvram_restore nvram_restore nvram_restore nvram_restore nvram_restore main main main main main get_rand 
+get_rand get_rand
+get_rand get_rand
+nvram_save nvram_save
+nvram_save nvram_save
+nvram_restore nvram_restore
+nvram_restore nvram_restore
+nvram_restore nvram_restore
+nvram_restore nvram_restore
+nvram_restore nvram_restore
+nvram_restore nvram_restore
+nvram_restore nvram_restore
+main main
+main main
+main main
+main main
+main main
+nvram_save get_rand
+nvram_save get_rand
+nvram_save get_rand

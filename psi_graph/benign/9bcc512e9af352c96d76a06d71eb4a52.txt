@@ -1,0 +1,5 @@
+4
+sub_8A48 sub_878C sub_8A48 sub_878C 
+sub_878C sub_878C
+sub_8A48 sub_8A48
+sub_8A48 sub_878C

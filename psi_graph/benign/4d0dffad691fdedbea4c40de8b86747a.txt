@@ -1,0 +1,9 @@
+8
+main sub_4008B0 sub_4008B0 sub_4008B0 sub_4008B0 main main sub_4008B0 
+sub_4008B0 sub_4008B0
+sub_4008B0 sub_4008B0
+sub_4008B0 sub_4008B0
+sub_4008B0 sub_4008B0
+main main
+main main
+main sub_4008B0

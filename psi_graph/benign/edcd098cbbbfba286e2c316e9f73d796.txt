@@ -1,0 +1,23 @@
+21
+sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 sub_4011E0 _ftext _ftext _ftext _ftext _ftext _ftext _ftext _ftext _ftext _ftext 
+_ftext sub_4011E0
+_ftext sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+sub_4011E0 sub_4011E0
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext

@@ -1,0 +1,31 @@
+21
+sub_4044C4 sub_404610 sub_4046BC sub_404754 sub_404804 sub_404870 sub_4044C4 sub_404610 sub_4046BC _ftext _ftext _ftext _ftext _ftext sub_404754 _ftext _ftext sub_404804 sub_404870 sub_404490 _ftext 
+sub_404490 sub_4044C4
+ sub_4044C4
+ sub_4044C4
+ sub_4044C4
+sub_4046BC sub_4044C4
+_ftext sub_4046BC
+_ftext sub_4046BC
+ sub_4046BC
+ sub_4046BC
+sub_404754 sub_404804
+sub_404870 sub_404804
+sub_404804 sub_404870
+sub_404870 sub_404870
+sub_404870 sub_404870
+sub_4044C4 sub_4044C4
+sub_404610 sub_404610
+sub_4046BC sub_4046BC
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+sub_404754 sub_404754
+_ftext _ftext
+_ftext _ftext
+sub_404804 sub_404804
+sub_404870 sub_404870
+sub_404490 sub_404490
+ _ftext

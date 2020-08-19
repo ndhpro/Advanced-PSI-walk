@@ -1,0 +1,28 @@
+24
+sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 sub_400C00 _ftext _ftext _ftext 
+_ftext sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+sub_400C00 sub_400C00
+_ftext _ftext
+_ftext _ftext

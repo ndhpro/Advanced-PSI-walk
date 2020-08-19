@@ -1,0 +1,9 @@
+7
+main get_lanport_status portname_to_num sub_404270 mdio_write_data print_port_status _ftext 
+ get_lanport_status
+ portname_to_num
+do_cmd sub_404270
+do_cmd sub_404270
+do_cmd mdio_write_data
+do_cmd mdio_write_data
+print_WanLanStatus print_port_status

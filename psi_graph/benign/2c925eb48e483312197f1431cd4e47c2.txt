@@ -1,0 +1,22 @@
+20
+sub_8B7C sub_8840 sub_887C sub_887C sub_887C sub_887C sub_887C sub_89D8 sub_8A10 sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_8B7C sub_887C 
+sub_8840 sub_8840
+sub_887C sub_887C
+sub_887C sub_887C
+sub_887C sub_887C
+sub_887C sub_887C
+sub_887C sub_887C
+sub_89D8 sub_89D8
+sub_8A10 sub_8A10
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_8B7C
+sub_8B7C sub_887C

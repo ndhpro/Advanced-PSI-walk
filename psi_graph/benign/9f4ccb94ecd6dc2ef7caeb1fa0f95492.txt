@@ -1,0 +1,21 @@
+16
+sub_4010D4 sub_4011D4 sub_40125C sub_4010D4 sub_4011D4 sub_40125C _ftext sub_4010D4 sub_40125C _ftext _ftext _ftext _ftext sub_4010D4 _ftext _ftext 
+_ftext sub_4010D4
+_ftext sub_4010D4
+_ftext sub_4010D4
+_ftext sub_4011D4
+_ftext sub_4011D4
+_ftext sub_40125C
+_ftext sub_40125C
+sub_4010D4 sub_4010D4
+sub_4011D4 sub_4011D4
+sub_40125C sub_40125C
+_ftext _ftext
+sub_4010D4 sub_4010D4
+sub_40125C sub_40125C
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+_ftext _ftext
+sub_4010D4 sub_4010D4
+_ftext _ftext
