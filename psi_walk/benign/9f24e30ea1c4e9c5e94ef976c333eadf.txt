@@ -1,0 +1,14 @@
+main
+main
+auth_check_options
+auth_check_options
+sub_41B7C4
+sub_41B7C4
+sub_41B010
+sub_41B010
+getword
+getword
+die
+die
+sub_406364
+sub_406364

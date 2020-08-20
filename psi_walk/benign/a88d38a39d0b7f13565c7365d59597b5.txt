@@ -1,0 +1,14 @@
+main
+main
+sub_401C54
+sub_401C54
+UPNP_AddAnyPortMapping
+UPNP_AddAnyPortMapping
+simpleUPnPcommand
+simpleUPnPcommand
+simpleUPnPcommand2
+simpleUPnPcommand2
+getHTTPResponse
+getHTTPResponse
+receivedata
+receivedata

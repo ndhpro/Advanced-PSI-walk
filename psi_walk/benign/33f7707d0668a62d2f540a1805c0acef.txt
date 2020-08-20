@@ -1,0 +1,9 @@
+main
+rip_input
+addrouteforif
+rtadd
+traceaction
+dumpif
+dumptrace
+dumppacket
+traceoff

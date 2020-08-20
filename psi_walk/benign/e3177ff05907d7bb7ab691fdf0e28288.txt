@@ -1,0 +1,16 @@
+main
+main
+read_disk_data
+read_disk_data
+create_disk
+create_disk
+create_partition
+create_partition
+find_partition_label
+find_partition_label
+get_usb_port_by_device
+get_usb_port_by_device
+get_device_type_by_device
+get_device_type_by_device
+isACMNode
+isACMNode

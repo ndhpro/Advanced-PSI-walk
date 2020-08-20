@@ -1,0 +1,14 @@
+ndr_pull_wkssvc_NetWkstaEnumUsers
+ndr_pull_wkssvc_NetWkstaEnumUsers
+ndr_pull_WKS_USER_ENUM_UNION
+ndr_pull_WKS_USER_ENUM_UNION
+ndr_pull_USER_INFO_1_CONTAINER
+ndr_pull_USER_INFO_1_CONTAINER
+ndr_pull_USER_INFO_1
+ndr_pull_USER_INFO_1
+ndr_pull_array_length
+ndr_pull_array_length
+ndr_pull_uint32
+ndr_pull_uint32
+ndr_check_padding
+ndr_check_padding

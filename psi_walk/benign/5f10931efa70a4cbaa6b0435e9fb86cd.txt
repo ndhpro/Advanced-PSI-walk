@@ -1,0 +1,8 @@
+send_tcp_rr
+send_tcp_rr
+sub_41D1C0
+sub_41D1C0
+calculate_confidence
+calculate_confidence
+__floatsidf
+__floatsidf

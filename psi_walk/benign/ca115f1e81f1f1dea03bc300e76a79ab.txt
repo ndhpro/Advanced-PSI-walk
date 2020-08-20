@@ -1,0 +1,8 @@
+sub_40DFEC
+sub_40DFEC
+set_wltxpower
+set_wltxpower
+wltxpower_rtn12hp
+wltxpower_rtn12hp
+setpoweroffset_rtn12hp
+setpoweroffset_rtn12hp

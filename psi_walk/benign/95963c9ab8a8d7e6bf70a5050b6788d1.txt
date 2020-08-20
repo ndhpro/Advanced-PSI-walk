@@ -1,0 +1,6 @@
+sysfs_device_get_parent
+sysfs_device_get_parent
+sysfs_device_get
+sysfs_device_get
+sysfs_resolve_link
+sysfs_resolve_link

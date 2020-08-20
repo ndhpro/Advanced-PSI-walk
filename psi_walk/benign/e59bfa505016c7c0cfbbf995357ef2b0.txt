@@ -1,0 +1,16 @@
+afp_listextattr
+afp_listextattr
+cname
+cname
+sub_1A4C0
+sub_1A4C0
+dirlookup
+dirlookup
+dircache_add
+dircache_add
+dir_remove
+dir_remove
+dircache_remove
+dircache_remove
+dircache_dump
+dircache_dump

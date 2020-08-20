@@ -1,0 +1,12 @@
+svr_auth_pubkey
+svr_auth_pubkey
+send_msg_userauth_failure
+send_msg_userauth_failure
+encrypt_packet
+encrypt_packet
+hmac_init
+hmac_init
+hash_memory
+hash_memory
+crypt_argchk
+crypt_argchk

@@ -1,0 +1,14 @@
+do_xfrm_state
+do_xfrm_state
+sub_41EC40
+sub_41EC40
+xfrm_id_parse
+xfrm_id_parse
+get_prefix
+get_prefix
+get_prefix_1
+get_prefix_1
+get_addr_1
+get_addr_1
+dnet_pton
+dnet_pton

@@ -1,0 +1,10 @@
+main
+main
+upnp_mainloop
+upnp_mainloop
+upnp_init
+upnp_init
+upnp_device_renew_uuid
+upnp_device_renew_uuid
+upnp_gen_uuid
+upnp_gen_uuid

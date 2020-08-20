@@ -1,0 +1,10 @@
+do_iproute
+do_iproute
+iproute_modify
+iproute_modify
+print_route
+print_route
+rtnl_rtscope_n2a
+rtnl_rtscope_n2a
+rtnl_tab_initialize
+rtnl_tab_initialize

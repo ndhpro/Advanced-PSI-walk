@@ -1,0 +1,6 @@
+_ftext
+_ftext
+nvram_save_new
+nvram_save_new
+get_rand
+get_rand

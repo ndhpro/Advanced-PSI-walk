@@ -1,0 +1,10 @@
+ip6tables_restore_main
+ip6tables_restore_main
+do_command6
+do_command6
+sub_419824
+sub_419824
+print_rule6
+print_rule6
+sub_419044
+sub_419044

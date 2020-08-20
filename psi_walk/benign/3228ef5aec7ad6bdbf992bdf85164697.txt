@@ -1,0 +1,5 @@
+iptables_main
+do_command
+sub_4075A0
+xtables_find_match
+xtables_malloc

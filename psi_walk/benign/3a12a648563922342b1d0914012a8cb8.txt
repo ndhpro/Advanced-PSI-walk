@@ -1,0 +1,8 @@
+vsf_one_process_login
+vsf_one_process_login
+process_post_login
+process_post_login
+handle_stat
+handle_stat
+vsf_cmdio_write_raw
+vsf_cmdio_write_raw

@@ -1,0 +1,17 @@
+network_readable
+l2tp_tunnel_handle_received_control_datagram
+l2tp_tunnel_handle_received_control_datagram
+sub_409D84
+sub_409D84
+sub_409990
+sub_409990
+l2tp_tunnel_xmit_control_message
+l2tp_tunnel_xmit_control_message
+sub_409400
+sub_409400
+Event_DelHandler
+Event_DelHandler
+sub_40C118
+sub_40C118
+Event_DebugMsg
+Event_DebugMsg

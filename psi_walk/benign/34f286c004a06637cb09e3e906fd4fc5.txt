@@ -1,0 +1,12 @@
+buffer_append_int
+buffer_append_int
+buffer_append_string_len
+buffer_append_string_len
+buffer_string_prepare_append
+buffer_string_prepare_append
+buffer_string_prepare_copy
+buffer_string_prepare_copy
+sub_401668
+sub_401668
+log_failed_assert
+log_failed_assert

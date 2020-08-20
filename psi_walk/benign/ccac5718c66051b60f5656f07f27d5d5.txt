@@ -1,0 +1,14 @@
+main
+main
+read_disk_data
+read_disk_data
+create_disk
+create_disk
+create_partition
+create_partition
+find_partition_label
+find_partition_label
+volume_id_probe_vfat
+volume_id_probe_vfat
+sub_406268
+sub_406268

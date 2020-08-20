@@ -1,0 +1,8 @@
+insmod_main
+insmod_main
+sub_4095B4
+sub_4095B4
+sub_40947C
+sub_40947C
+xmalloc
+xmalloc

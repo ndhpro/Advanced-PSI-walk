@@ -1,0 +1,5 @@
+sub_804A970
+sub_804A970
+sub_804BB52
+sub_804BB52
+_ZN6vectorIjED2Ev

@@ -1,0 +1,12 @@
+_ftext
+_ftext
+sub_402F28
+sub_402F28
+ttloop
+ttloop
+telrcv
+telrcv
+sub_404BE8
+sub_404BE8
+sub_403CC0
+sub_403CC0

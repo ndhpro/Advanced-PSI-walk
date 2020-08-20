@@ -1,0 +1,8 @@
+sub_4121F8
+sub_411B90
+sub_411B90
+sub_4136C0
+sub_4136C0
+sub_410C1C
+sub_410C1C
+_ZN6vectorI6stringED2Ev

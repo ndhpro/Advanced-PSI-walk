@@ -1,0 +1,14 @@
+sub_40D20C
+sub_40D20C
+sub_410000
+sub_410000
+sub_40F540
+sub_40F540
+sub_40F42C
+sub_40F42C
+sub_40EBE4
+sub_40EBE4
+sub_40EB88
+sub_40EB88
+sub_40EB5C
+sub_40EB5C

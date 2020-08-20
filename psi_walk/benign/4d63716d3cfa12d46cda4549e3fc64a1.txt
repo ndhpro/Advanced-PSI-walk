@@ -1,0 +1,12 @@
+sub_403E98
+sub_403E98
+update_ia
+update_ia
+sub_40FCC4
+sub_40FCC4
+client6_start
+client6_start
+dhcp6_remove_event
+dhcp6_remove_event
+my_dprintf
+my_dprintf

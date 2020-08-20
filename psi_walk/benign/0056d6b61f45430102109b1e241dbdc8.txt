@@ -1,0 +1,12 @@
+main
+main
+sdp_process_vpd_page
+sdp_process_vpd_page
+sg_ll_inquiry
+sg_ll_inquiry
+sub_410A30
+sub_410A30
+sg_get_sense_str
+sg_get_sense_str
+sg_get_asc_ascq_str
+sg_get_asc_ascq_str

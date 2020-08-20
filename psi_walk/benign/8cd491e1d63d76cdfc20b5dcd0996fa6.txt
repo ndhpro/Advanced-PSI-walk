@@ -1,0 +1,5 @@
+main
+wan_connect
+set_pptp
+start_dns_relay
+write_resolvconf

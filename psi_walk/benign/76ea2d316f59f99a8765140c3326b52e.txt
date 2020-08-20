@@ -1,0 +1,6 @@
+cbq_parse_class_opt
+cbq_parse_class_opt
+incomplete_command
+incomplete_command
+getcmdline
+getcmdline

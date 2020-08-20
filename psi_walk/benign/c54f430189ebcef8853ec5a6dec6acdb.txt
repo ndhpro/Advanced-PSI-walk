@@ -1,0 +1,4 @@
+sub_400EFC
+sub_400EFC
+igs_cfg_request_send
+igs_cfg_request_send

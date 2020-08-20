@@ -1,0 +1,12 @@
+read_header
+read_header
+process_header_end
+process_header_end
+translate_uri
+translate_uri
+send_r_moved_temp
+send_r_moved_temp
+print_http_headers
+print_http_headers
+req_write
+req_write

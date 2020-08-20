@@ -1,0 +1,14 @@
+do_xfrm
+do_xfrm
+do_xfrm_state
+do_xfrm_state
+sub_41A548
+sub_41A548
+xfrm_state_print
+xfrm_state_print
+xfrm_state_info_print
+xfrm_state_info_print
+xfrm_xfrma_print
+xfrm_xfrma_print
+xfrm_id_info_print
+xfrm_id_info_print

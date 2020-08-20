@@ -1,0 +1,4 @@
+_ftext
+_ftext
+sub_400F60
+sub_400F60

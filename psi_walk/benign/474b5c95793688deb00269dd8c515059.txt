@@ -1,0 +1,10 @@
+sub_400E68
+sub_400E68
+sub_405840
+sub_405840
+sub_4054CC
+sub_4054CC
+sub_40512C
+sub_40512C
+sub_4048A8
+sub_4048A8

@@ -1,0 +1,14 @@
+main
+main
+pcap_compile
+pcap_compile
+pcap_parse
+pcap_parse
+gen_scode
+gen_scode
+sub_48353C
+sub_48353C
+sub_47F9D4
+sub_47F9D4
+bpf_error
+bpf_error

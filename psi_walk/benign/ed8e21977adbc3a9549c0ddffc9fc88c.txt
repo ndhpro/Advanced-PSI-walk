@@ -1,0 +1,4 @@
+_ftext
+_ftext
+sub_4010D4
+sub_4010D4

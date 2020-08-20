@@ -1,0 +1,9 @@
+main
+setuphost
+setuphost
+usage
+usage
+wakeme
+wakeme
+goodconnect
+goodconnect

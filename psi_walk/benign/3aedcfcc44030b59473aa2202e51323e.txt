@@ -1,0 +1,12 @@
+main
+main
+sdp_process_vpd_page
+sdp_process_vpd_page
+sg_ll_inquiry
+sg_ll_inquiry
+sg_cmds_process_resp
+sg_cmds_process_resp
+sg_get_sense_str
+sg_get_sense_str
+sg_get_asc_ascq_str
+sg_get_asc_ascq_str

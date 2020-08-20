@@ -1,0 +1,6 @@
+sub_430000
+sub_430000
+load_key
+load_key
+sub_43C82C
+sub_43C82C

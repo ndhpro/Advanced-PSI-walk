@@ -1,0 +1,6 @@
+sub_4014F0
+sub_4014F0
+nvram_save_new
+nvram_save_new
+get_rand
+get_rand

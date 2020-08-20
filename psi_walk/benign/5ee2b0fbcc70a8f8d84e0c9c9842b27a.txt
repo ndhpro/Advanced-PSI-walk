@@ -1,0 +1,5 @@
+ej_wps_info_2g
+wl_wps_info
+wl_wps_info
+getWPSEncrypType
+getWPSEncrypType

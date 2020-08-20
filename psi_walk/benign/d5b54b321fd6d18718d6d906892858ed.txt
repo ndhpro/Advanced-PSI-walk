@@ -1,0 +1,7 @@
+main
+wpsap_wksp_mainloop
+wpsap_wksp_mainloop
+sub_40583C
+sub_40583C
+wps_setProcessStates
+wps_setProcessStates

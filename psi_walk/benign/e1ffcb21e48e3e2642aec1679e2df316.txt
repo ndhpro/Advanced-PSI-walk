@@ -1,0 +1,17 @@
+syncItem
+find_diff_item
+find_diff_item
+sync_local_add_folder
+sync_local_add_folder
+sync_all_item
+sync_all_item
+uploadFile
+uploadFile
+initBinaryUpload
+initBinaryUpload
+parseDoc1
+parseDoc1
+sub_40E79C
+sub_40E79C
+handle_error
+handle_error

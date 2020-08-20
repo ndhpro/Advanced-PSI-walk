@@ -1,0 +1,10 @@
+_ftext
+_ftext
+sub_4018FC
+sub_4018FC
+sub_401294
+sub_401294
+sub_4011B8
+sub_4011B8
+sub_401020
+sub_401020

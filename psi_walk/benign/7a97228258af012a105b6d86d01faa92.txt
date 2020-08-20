@@ -1,0 +1,14 @@
+_ftext
+_ftext
+sub_40C814
+sub_40C814
+sub_40C6A0
+sub_40C6A0
+sub_404E50
+sub_404E50
+sub_40BE8C
+sub_40BE8C
+sub_408ED4
+sub_408ED4
+sub_407C90
+sub_407C90

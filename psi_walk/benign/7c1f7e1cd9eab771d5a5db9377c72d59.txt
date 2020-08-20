@@ -1,0 +1,12 @@
+main
+main
+sub_40601C
+sub_40601C
+dhcp6_get_options
+dhcp6_get_options
+sub_40CB64
+sub_40CB64
+dhcp6_add_listval
+dhcp6_add_listval
+dprintf
+dprintf

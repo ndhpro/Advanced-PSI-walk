@@ -1,0 +1,13 @@
+network_readable
+l2tp_tunnel_handle_received_control_datagram
+l2tp_tunnel_handle_received_control_datagram
+tunnel_handle_SCCRQ
+tunnel_handle_SCCRQ
+tunnel_set_params
+tunnel_set_params
+l2tp_dgram_pull_avp
+l2tp_dgram_pull_avp
+dgram_do_unhide
+dgram_do_unhide
+l2tp_set_errmsg
+l2tp_set_errmsg

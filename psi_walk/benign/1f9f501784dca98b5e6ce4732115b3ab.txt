@@ -1,0 +1,14 @@
+iptables_restore_main
+iptables_restore_main
+do_command4
+do_command4
+print_rule4
+print_rule4
+xtables_find_match
+xtables_find_match
+xtables_malloc
+xtables_malloc
+xtables_realloc
+xtables_realloc
+xtables_insmod
+xtables_insmod

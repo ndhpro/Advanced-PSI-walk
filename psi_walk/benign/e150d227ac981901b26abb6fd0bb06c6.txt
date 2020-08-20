@@ -1,0 +1,4 @@
+sub_400C1C
+sub_400C1C
+sub_400F60
+sub_400F60

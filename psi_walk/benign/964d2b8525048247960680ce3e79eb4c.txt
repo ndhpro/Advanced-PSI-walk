@@ -1,0 +1,6 @@
+sub_400FC0
+sub_400FC0
+sub_400BE0
+sub_400BE0
+sub_400C08
+sub_400C08

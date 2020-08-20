@@ -1,0 +1,14 @@
+sub_C718
+sub_C718
+read_disk_data
+read_disk_data
+create_disk
+create_disk
+create_partition
+create_partition
+find_partition_label
+find_partition_label
+sub_CFA8
+sub_CFA8
+sub_C9F8
+sub_C9F8

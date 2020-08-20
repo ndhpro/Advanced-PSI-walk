@@ -1,0 +1,14 @@
+main
+main
+auth_check_options
+auth_check_options
+sub_41CE38
+sub_41CE38
+sub_41C440
+sub_41C440
+getword
+getword
+option_error
+option_error
+vslprintf
+vslprintf

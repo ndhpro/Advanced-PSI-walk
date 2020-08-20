@@ -1,0 +1,3 @@
+calc_htb_param
+__subsf3
+__aeabi_fadd

@@ -1,0 +1,3 @@
+qmi_set_wds_start_network_request
+__qmi_alloc_static
+__qmi_alloc_static

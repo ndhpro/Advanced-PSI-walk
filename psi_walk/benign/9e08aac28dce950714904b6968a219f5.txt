@@ -1,0 +1,16 @@
+insmod_main
+insmod_main
+insmod_ng_main
+insmod_ng_main
+bb_show_usage
+bb_show_usage
+run_current_applet_and_exit
+run_current_applet_and_exit
+bb_show_usage
+bb_show_usage
+run_current_applet_and_exit
+run_current_applet_and_exit
+run_applet_and_exit
+run_applet_and_exit
+get_terminal_width_height
+get_terminal_width_height

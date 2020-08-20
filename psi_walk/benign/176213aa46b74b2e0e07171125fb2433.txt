@@ -1,0 +1,10 @@
+main
+main
+sub_406930
+sub_406930
+xmalloc
+xmalloc
+die
+die
+warn
+warn

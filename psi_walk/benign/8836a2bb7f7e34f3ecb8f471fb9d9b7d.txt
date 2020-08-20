@@ -1,0 +1,8 @@
+main
+main
+if_wan_phyconnected
+if_wan_phyconnected
+chk_proto
+chk_proto
+check_ppp_link_exist
+check_ppp_link_exist

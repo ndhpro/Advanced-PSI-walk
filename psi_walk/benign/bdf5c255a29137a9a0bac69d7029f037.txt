@@ -1,0 +1,4 @@
+sub_804AF80
+sub_804AF80
+sub_804BC92
+sub_804BC92

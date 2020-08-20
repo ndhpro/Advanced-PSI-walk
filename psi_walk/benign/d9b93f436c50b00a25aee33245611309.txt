@@ -1,0 +1,10 @@
+main
+main
+do_command
+do_command
+sub_40538C
+sub_40538C
+iptc_get_target
+iptc_get_target
+standard_target_map
+standard_target_map

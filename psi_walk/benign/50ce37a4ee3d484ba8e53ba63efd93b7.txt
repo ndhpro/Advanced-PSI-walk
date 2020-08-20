@@ -1,0 +1,9 @@
+main
+wpsenr_wksp_mainloop
+wpsenr_wksp_mainloop
+enroll_device
+enroll_device
+wpsenr_osl_set_wsec
+wpsenr_osl_set_wsec
+wps_set_wsec
+wps_set_wsec

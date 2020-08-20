@@ -1,0 +1,10 @@
+_ftext
+_ftext
+sub_40574C
+sub_40574C
+sub_4049C8
+sub_4049C8
+sub_404790
+sub_404790
+sub_404568
+sub_404568
