@@ -1,5 +1,0 @@
-main
-parse_args
-option_handler
-get_duration
-show_message

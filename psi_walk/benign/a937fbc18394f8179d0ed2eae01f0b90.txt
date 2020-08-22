@@ -1,2 +1,0 @@
-detectWAN_arp
-is_phyconnected

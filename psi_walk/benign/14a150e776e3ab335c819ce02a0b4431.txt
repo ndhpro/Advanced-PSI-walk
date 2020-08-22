@@ -1,8 +1,0 @@
-iptables_main
-iptables_main
-do_command4
-do_command4
-sub_405D88
-sub_405D88
-sub_405BC4
-sub_405BC4

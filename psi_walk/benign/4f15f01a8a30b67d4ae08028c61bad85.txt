@@ -1,6 +1,0 @@
-packetio_recv_handler
-state_process_packet
-smE_process_event
-osl_set_promisc
-die
-warn

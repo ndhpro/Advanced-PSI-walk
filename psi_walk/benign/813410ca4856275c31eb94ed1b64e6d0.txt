@@ -1,8 +1,0 @@
-sub_42E8E4
-sub_42E8E4
-mDNS_Register_internal
-mDNS_Register_internal
-GetRRDisplayString_rdb
-GetRRDisplayString_rdb
-DNSTypeName
-DNSTypeName

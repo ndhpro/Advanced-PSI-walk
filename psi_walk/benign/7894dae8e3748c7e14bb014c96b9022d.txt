@@ -1,6 +1,0 @@
-main
-main
-usage
-usage
-send_request
-send_request

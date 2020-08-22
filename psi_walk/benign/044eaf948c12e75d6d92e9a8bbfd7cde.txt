@@ -1,3 +1,0 @@
-gpio_test_write
-gpio_write_bit
-gpio_write_bit

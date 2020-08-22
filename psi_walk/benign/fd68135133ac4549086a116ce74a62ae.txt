@@ -1,3 +1,0 @@
-main
-dumparptable
-got_wan_hwaddr

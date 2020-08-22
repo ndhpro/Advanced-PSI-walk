@@ -1,6 +1,0 @@
-sub_40A904
-sub_40A904
-sub_410000
-sub_410000
-print_flags_separated
-print_flags_separated

@@ -1,8 +1,0 @@
-sub_404BA0
-sub_404BA0
-is_private_ip
-is_private_ip
-get_src_ip
-get_src_ip
-nvram_get_mac_addr
-nvram_get_mac_addr

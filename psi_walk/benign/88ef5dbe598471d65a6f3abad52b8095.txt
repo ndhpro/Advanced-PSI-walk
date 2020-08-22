@@ -1,8 +1,0 @@
-sub_42174C
-sub_42174C
-ej_wl_status
-ej_wl_status
-wl_control_channel
-wl_control_channel
-sub_427720
-sub_427720

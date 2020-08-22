@@ -1,4 +1,0 @@
-main
-if_wan_phyconnected
-chk_proto
-check_ppp_exist

@@ -1,6 +1,0 @@
-main
-main
-start_ssl
-start_ssl
-erase_cert
-erase_cert

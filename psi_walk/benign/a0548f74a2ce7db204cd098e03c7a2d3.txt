@@ -1,7 +1,0 @@
-main
-auth_check_options
-sub_41D9A8
-sub_41C434
-getword
-die
-print_link_stats

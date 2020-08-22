@@ -1,7 +1,0 @@
-sub_804DA04
-sub_804B5EC
-sub_804B5EC
-sub_804F114
-sub_804F114
-sub_804F06A
-sub_804F06A

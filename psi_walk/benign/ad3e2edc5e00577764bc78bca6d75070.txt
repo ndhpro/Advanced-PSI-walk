@@ -1,3 +1,0 @@
-_ftext
-_ftext
-_ZN6vectorIjEC2Ej

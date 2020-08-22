@@ -1,2 +1,0 @@
-sub_10026E60
-_ZN6vectorI6stringED2Ev

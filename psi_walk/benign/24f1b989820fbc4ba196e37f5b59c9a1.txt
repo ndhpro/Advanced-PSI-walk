@@ -1,8 +1,0 @@
-sub_41152C
-sub_41152C
-sub_40F828
-sub_40F828
-run_program
-run_program
-safe_fork
-safe_fork

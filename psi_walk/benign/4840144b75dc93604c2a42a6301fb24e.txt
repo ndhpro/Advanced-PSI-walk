@@ -1,5 +1,0 @@
-main
-eapd_wksp_auto_config
-eapd_wksp_auto_config
-nas_app_enabled
-nas_app_enabled

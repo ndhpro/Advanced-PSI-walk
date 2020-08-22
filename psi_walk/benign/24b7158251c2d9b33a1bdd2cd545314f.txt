@@ -1,6 +1,0 @@
-main
-sub_40ABB8
-process_event
-sub_4081FC
-get_hidden_mib
-wlioctl_get_mib

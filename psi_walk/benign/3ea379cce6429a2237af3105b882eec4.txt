@@ -1,6 +1,0 @@
-_ftext
-_ftext
-sub_401A6C
-sub_401A6C
-sub_401148
-sub_401148

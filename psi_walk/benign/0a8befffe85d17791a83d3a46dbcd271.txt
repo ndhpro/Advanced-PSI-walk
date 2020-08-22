@@ -1,6 +1,0 @@
-main
-main
-nvram_getall
-nvram_getall
-nvram_init
-nvram_init

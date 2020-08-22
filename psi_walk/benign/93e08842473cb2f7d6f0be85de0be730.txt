@@ -1,6 +1,0 @@
-ej_lan_ipv6_network
-ej_lan_ipv6_network
-killall
-killall
-psname
-psname

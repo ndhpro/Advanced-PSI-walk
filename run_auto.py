@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     malware = pd.read_csv('data.csv')
 
-    for line in malware['md5'].values[:600]:
+    for line in malware['md5'].values[:5000]:
         continue_fl = False
         for _, _, files in os.walk('results/'):
             for file_ in files:

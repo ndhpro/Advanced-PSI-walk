@@ -1,6 +1,0 @@
-_ftext
-_ftext
-sub_400F38
-sub_400F38
-sub_400E40
-sub_400E40

@@ -1,9 +1,0 @@
-main
-open_callmgr
-launch_callmgr
-callmgr_main
-pptp_dispatch
-pptp_send_ctrl_packet
-pptp_conn_destroy
-pptp_call_destroy
-vector_contains

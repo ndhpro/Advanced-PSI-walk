@@ -1,4 +1,0 @@
-main
-main
-sub_40BC00
-sub_40BC00

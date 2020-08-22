@@ -1,8 +1,0 @@
-heartbeat_cb
-heartbeat_cb
-check_for_updates
-check_for_updates
-wtf_http_perform_request
-wtf_http_perform_request
-wtf_http_get
-wtf_http_get

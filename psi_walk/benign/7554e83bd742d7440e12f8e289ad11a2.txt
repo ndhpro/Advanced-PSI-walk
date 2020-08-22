@@ -1,2 +1,0 @@
-sub_10003F0C
-_ZN6vectorIjEC2Ej

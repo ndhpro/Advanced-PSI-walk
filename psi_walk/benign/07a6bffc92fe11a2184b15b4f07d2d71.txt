@@ -1,8 +1,0 @@
-do_qdisc
-tc_qdisc_modify
-parse_estimator
-incomplete_command
-missarg
-invarg
-duparg
-duparg2

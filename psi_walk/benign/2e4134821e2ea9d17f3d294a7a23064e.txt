@@ -1,4 +1,0 @@
-_ftext
-_ftext
-sub_400AE0
-sub_400AE0

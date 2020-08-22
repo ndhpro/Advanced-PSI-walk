@@ -1,8 +1,0 @@
-main
-lib1x_do_supplicant
-lib1x_nal_receive
-lib1x_capture_control
-lib1x_acctsm_request
-lib1x_acct_request
-lib1x_acctsm_sendReqToServer
-lib1x_nal_send_acct

@@ -1,6 +1,0 @@
-main
-main
-gen_ralink_config
-gen_ralink_config
-checkReg2G
-checkReg2G

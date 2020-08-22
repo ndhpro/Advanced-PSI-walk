@@ -1,6 +1,0 @@
-sub_416818
-sub_416818
-ej_wl_status
-ej_wl_status
-print_rate_buf
-print_rate_buf

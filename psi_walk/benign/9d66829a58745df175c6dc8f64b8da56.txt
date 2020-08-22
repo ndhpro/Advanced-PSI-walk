@@ -1,4 +1,0 @@
-getVirtualIndex
-getIndex
-whichWlanIfIs
-SetWlan_idx

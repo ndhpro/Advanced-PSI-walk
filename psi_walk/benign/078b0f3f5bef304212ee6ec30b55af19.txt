@@ -1,6 +1,0 @@
-asus_usb_interface
-asus_usb_interface
-init_3g_param
-init_3g_param
-write_3g_conf
-write_3g_conf

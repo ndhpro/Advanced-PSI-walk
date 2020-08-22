@@ -1,4 +1,0 @@
-main
-main
-local2remote
-local2remote

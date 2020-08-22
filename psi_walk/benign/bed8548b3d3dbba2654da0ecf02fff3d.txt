@@ -1,4 +1,0 @@
-nvram_save
-nvram_save
-get_rand
-get_rand

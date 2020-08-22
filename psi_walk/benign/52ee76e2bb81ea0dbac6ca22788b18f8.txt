@@ -1,6 +1,0 @@
-main
-main
-nvram_restore
-nvram_restore
-issyspara
-issyspara

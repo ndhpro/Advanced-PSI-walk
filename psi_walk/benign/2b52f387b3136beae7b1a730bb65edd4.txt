@@ -1,8 +1,0 @@
-ej_wl_status_2g
-ej_wl_status_2g
-ej_wl_status
-ej_wl_status
-wl_control_channel
-wl_control_channel
-sub_4278C0
-sub_4278C0

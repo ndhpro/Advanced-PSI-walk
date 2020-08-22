@@ -1,5 +1,0 @@
-_ftext
-sub_4010DC
-sub_4010DC
-sub_401094
-sub_401094

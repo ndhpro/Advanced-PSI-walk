@@ -1,4 +1,0 @@
-sub_400FB4
-sub_400FB4
-igs_cfg_request_send
-igs_cfg_request_send

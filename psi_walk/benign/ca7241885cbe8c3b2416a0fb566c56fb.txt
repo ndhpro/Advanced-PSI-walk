@@ -1,3 +1,0 @@
-ra_reg_mod_bits
-ra_reg_read
-ra_reg_read

@@ -1,6 +1,0 @@
-main
-main
-rules_from_config
-rules_from_config
-xrealloc
-xrealloc

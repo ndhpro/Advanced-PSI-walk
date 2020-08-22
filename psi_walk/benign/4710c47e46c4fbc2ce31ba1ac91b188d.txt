@@ -1,8 +1,0 @@
-asus_tty
-asus_tty
-init_3g_param
-init_3g_param
-write_3g_conf
-write_3g_conf
-nvram_safe_get_2
-nvram_safe_get_2

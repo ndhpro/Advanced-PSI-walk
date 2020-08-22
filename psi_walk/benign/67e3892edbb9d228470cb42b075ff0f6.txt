@@ -1,6 +1,0 @@
-DYNDNS_update_entry
-DYNDNS_update_entry
-read_input
-read_input
-show_message
-show_message

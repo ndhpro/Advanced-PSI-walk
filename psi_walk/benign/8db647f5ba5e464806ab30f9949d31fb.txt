@@ -1,6 +1,0 @@
-_ftext
-_ftext
-sub_4012EC
-sub_4012EC
-sub_400FC0
-sub_400FC0

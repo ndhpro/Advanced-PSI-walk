@@ -1,8 +1,0 @@
-main
-main
-udhcpc_main
-udhcpc_main
-run_script
-run_script
-sub_4072F0
-sub_4072F0

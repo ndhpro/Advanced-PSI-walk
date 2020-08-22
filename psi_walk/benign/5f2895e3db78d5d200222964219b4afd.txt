@@ -1,4 +1,0 @@
-main
-sub_4010C4
-iw_in_addr
-iw_check_mac_addr_type

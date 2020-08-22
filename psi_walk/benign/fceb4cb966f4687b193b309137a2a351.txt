@@ -1,8 +1,0 @@
-main
-main
-libubi_open
-libubi_open
-read_positive_int
-read_positive_int
-read_positive_ll
-read_positive_ll

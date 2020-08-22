@@ -1,3 +1,0 @@
-sub_402B90
-print_info
-get_range_info

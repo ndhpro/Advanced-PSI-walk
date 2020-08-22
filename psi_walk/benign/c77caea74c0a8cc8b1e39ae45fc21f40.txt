@@ -1,4 +1,0 @@
-enc_main
-enc_main
-load_config
-load_config

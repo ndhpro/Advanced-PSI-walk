@@ -1,8 +1,0 @@
-main
-main
-WscUPnPDevStart
-WscUPnPDevStart
-SampleUtil_FindAndParseService
-SampleUtil_FindAndParseService
-SampleUtil_GetFirstServiceList
-SampleUtil_GetFirstServiceList

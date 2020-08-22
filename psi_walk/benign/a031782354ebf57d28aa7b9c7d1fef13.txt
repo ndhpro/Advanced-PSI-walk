@@ -1,3 +1,0 @@
-main
-main
-_ZN6vectorIjEC2Ej

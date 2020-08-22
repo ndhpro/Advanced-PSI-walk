@@ -1,8 +1,0 @@
-main
-main
-sub_402F78
-sub_402F78
-readoptionsfile
-readoptionsfile
-read_permission_line
-read_permission_line

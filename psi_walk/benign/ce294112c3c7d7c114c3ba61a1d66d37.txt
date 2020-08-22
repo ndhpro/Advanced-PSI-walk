@@ -1,8 +1,0 @@
-main
-main
-send_login_page
-send_login_page
-sub_403E38
-sub_403E38
-sub_403C58
-sub_403C58
