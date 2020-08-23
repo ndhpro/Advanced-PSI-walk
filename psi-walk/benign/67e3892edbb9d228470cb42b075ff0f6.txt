@@ -1,0 +1,3 @@
+DYNDNS_update_entry DYNDNS_update_entry read_input read_input show_message show_message
+DYNDNS_update_entry DYNDNS_update_entry output output show_message show_message
+DYNDNS_check_info DYNDNS_check_info option_handler option_handler parse_service parse_service show_message show_message

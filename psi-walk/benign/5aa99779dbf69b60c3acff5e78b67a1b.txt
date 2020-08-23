@@ -1,0 +1,4 @@
+sub_AA0C sub_AA0C sub_C6E8 sub_C6E8 sub_BD00 sub_BD00 sub_A888 sub_A888 sub_A1B8 sub_A1B8 sub_9A58 sub_9A58
+sub_AA0C sub_AA0C sub_C6E8 sub_C6E8 sub_BD00 sub_BD00 sub_BC00 sub_BC00 sub_B5D8 sub_B5D8
+sub_AA0C sub_AA0C sub_C6E8 sub_C6E8 sub_B7D4 sub_B7D4 sub_B6BC sub_B6BC
+sub_AA0C sub_AA0C sub_9E00 sub_9E00 sub_9C50 sub_9C50

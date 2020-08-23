@@ -1,0 +1,2 @@
+main gpio_test_read gpio_test_read gpio_read_int gpio_read_int
+main gpio_set_led gpio_set_led

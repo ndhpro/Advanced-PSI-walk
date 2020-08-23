@@ -1,0 +1,9 @@
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 sub_4027A4 sub_4027A4 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getstring getstring getstringindex getstringindex sub_407570 sub_407570 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 sub_4029D0 sub_4029D0 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 getstring getstring getstringindex getstringindex sub_407570 sub_407570 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 sub_4029D0 sub_4029D0 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 getstring getstring getstringindex getstringindex sub_407570 sub_407570 serror serror sub_401AA8 sub_401AA8
+main main sub_408C78 sub_408C78 sub_407ACC sub_407ACC getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 sub_4027A4 sub_4027A4 serror serror sub_401AA8 sub_401AA8
+sub_4078B4 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 sub_4027A4 sub_4027A4 serror serror sub_401AA8 sub_401AA8

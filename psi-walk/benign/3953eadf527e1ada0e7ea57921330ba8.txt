@@ -1,0 +1,11 @@
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue getintindex getintindex serror serror vmsg vmsg
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue getintindex getintindex getindex getindex
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue serror serror vmsg vmsg
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring serror serror vmsg vmsg
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue getstring getstring getvalue getvalue gettoken gettoken serror serror vmsg vmsg
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue getstring getstring getstringindex getstringindex getindex getindex serror serror vmsg vmsg
+main main doscript doscript doprint doprint getstring getstring getvalue getvalue gettoken gettoken serror serror vmsg vmsg
+main main doscript doscript doprint doprint getstring getstring getstringindex getstringindex getindex getindex serror serror vmsg vmsg
+main main doscript doscript doprint doprint getvalue getvalue getstring getstring getvalue getvalue getstring getstring getstringindex getstringindex getindex getindex serror serror vmsg vmsg
+main main doscript doscript getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue getintindex getintindex serror serror vmsg vmsg
+getonearg getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue getintindex getintindex serror serror vmsg vmsg

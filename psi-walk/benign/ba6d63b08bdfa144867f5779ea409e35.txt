@@ -1,0 +1,5 @@
+start sub_81A4 sub_81A4 sub_AF50 sub_AF50 sub_24394 sub_24394 sub_234B8 sub_234B8 sub_325C4 sub_325C4 sub_30434 sub_30434 sub_30228 sub_30228
+start sub_81A4 sub_81A4 sub_AF50 sub_AF50 sub_24394 sub_24394 sub_234B8 sub_234B8 sub_325C4 sub_325C4 sub_313B8 sub_313B8 sub_30228 sub_30228
+start sub_81A4 sub_81A4 sub_AF50 sub_AF50 sub_24394 sub_24394 sub_23C64 sub_23C64
+start sub_81A4 sub_81A4 sub_AF50 sub_AF50 sub_DD94 sub_DD94 sub_C9A4 sub_C9A4
+start sub_81A4 sub_81A4 sub_36DB8 sub_36DB8 sub_37C10 sub_37C10 sub_37094 sub_37094

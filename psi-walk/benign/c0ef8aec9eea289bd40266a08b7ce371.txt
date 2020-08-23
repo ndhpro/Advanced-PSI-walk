@@ -1,0 +1,4 @@
+do_xfrm_state do_xfrm_state sub_41ED00 sub_41ED00 xfrm_id_parse xfrm_id_parse get_prefix get_prefix get_prefix_1 get_prefix_1 get_addr_1 get_addr_1 dnet_pton dnet_pton
+do_xfrm_state do_xfrm_state sub_41ED00 sub_41ED00 xfrm_id_parse xfrm_id_parse invarg invarg missarg missarg hexstring_n2a hexstring_n2a
+do_xfrm_state do_xfrm_state sub_41ED00 sub_41ED00 xfrm_encap_type_parse xfrm_encap_type_parse xfrm_mode_parse xfrm_mode_parse invarg invarg missarg missarg hexstring_n2a hexstring_n2a
+do_xfrm_state do_xfrm_state sub_420B6C sub_420B6C incomplete_command incomplete_command getcmdline getcmdline

@@ -1,0 +1,3 @@
+_ftext _ftext sub_40574C sub_40574C sub_4049C8 sub_4049C8 sub_404790 sub_404790 sub_404568 sub_404568
+_ftext _ftext sub_40574C sub_40574C sub_40533C sub_40533C sub_405260 sub_405260 sub_404DB8 sub_404DB8 sub_404CD0 sub_404CD0
+sub_4235BC sub_4235BC sub_42681C sub_42681C sub_426304 sub_426304 sub_426170 sub_426170

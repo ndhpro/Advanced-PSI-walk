@@ -1,0 +1,2 @@
+main main auto_det_main auto_det_main sendPADI_pppoa sendPADI_pppoa sendPacket sendPacket
+main main auto_det_main auto_det_main link_state link_state recv_ipc recv_ipc TestAdslAteAskQuit TestAdslAteAskQuit

@@ -1,0 +1,1 @@
+sub_40100C sub_40100C _ftext _ftext

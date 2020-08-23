@@ -1,0 +1,5 @@
+main wan_connect set_pptp start_dns_relay write_resolvconf
+main wan_connect set_pptp start_dns_relay DoCmd
+main wan_connect set_pptp start_upnp_igd
+main wan_connect setFirewallIptablesRules apmib_update mib_compress_write sub_40503C
+main setinit setFirewallIptablesRules apmib_update mib_compress_write sub_40503C

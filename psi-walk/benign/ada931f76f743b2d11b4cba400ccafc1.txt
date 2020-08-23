@@ -1,0 +1,3 @@
+sub_40A904 sub_40A904 sub_410000 sub_410000 print_flags_separated print_flags_separated
+sub_40A904 sub_40A904 sub_40A580 sub_40A580
+sub_419688 sub_419688 sub_418F50 sub_418F50 sub_406E04 sub_406E04

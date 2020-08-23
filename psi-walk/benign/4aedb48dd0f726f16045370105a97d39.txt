@@ -1,0 +1,3 @@
+main main sub_404BC0 sub_404BC0 get_sta_list get_sta_list sub_401384 sub_401384
+main main sub_404BC0 sub_404BC0 sub_4046D4 sub_4046D4
+main main sub_4070F8 sub_4070F8 sub_406530 sub_406530 sub_406158 sub_406158

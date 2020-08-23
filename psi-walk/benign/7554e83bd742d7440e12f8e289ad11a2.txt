@@ -1,0 +1,2 @@
+sub_10003F0C _ZN6vectorIjEC2Ej
+sub_1000955C _ZN6vectorI6stringED2Ev

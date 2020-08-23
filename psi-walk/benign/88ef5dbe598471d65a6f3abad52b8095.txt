@@ -1,0 +1,4 @@
+sub_42174C sub_42174C ej_wl_status ej_wl_status wl_control_channel wl_control_channel sub_427720 sub_427720
+sub_42174C sub_42174C ej_wl_status ej_wl_status print_rate_buf print_rate_buf
+sub_42174C sub_42174C sub_413D40 sub_413D40
+ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status wl_control_channel wl_control_channel sub_427720 sub_427720

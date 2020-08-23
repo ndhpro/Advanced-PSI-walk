@@ -1,0 +1,4 @@
+main main options_from_file options_from_file sub_41F778 sub_41F778 sub_41F68C sub_41F68C option_error option_error vslprintf vslprintf
+main main options_from_file options_from_file sub_41F778 sub_41F778 option_error option_error vslprintf vslprintf
+main main options_from_file options_from_file getword getword option_error option_error vslprintf vslprintf
+main main auth_check_options auth_check_options sub_41CBF0 sub_41CBF0 sub_41B4B4 sub_41B4B4 getword getword option_error option_error vslprintf vslprintf

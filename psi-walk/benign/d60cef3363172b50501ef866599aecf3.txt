@@ -1,0 +1,2 @@
+qmi_set_wds_start_network_request __qmi_alloc_static __qmi_alloc_static
+qmi_set_nas_set_system_selection_preference_request __qmi_alloc_static __qmi_alloc_static

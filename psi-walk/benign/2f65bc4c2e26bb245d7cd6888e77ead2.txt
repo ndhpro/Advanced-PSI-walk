@@ -1,0 +1,3 @@
+udhcpc_main sub_404F3C run_script sub_406D40
+udhcpc_main sub_404F3C sub_404DEC
+udhcpc_main sub_405018 run_script sub_406D40

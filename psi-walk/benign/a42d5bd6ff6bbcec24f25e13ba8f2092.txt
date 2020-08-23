@@ -1,0 +1,2 @@
+config_switch generate_switch_para generate_switch_para switch_gen_config switch_gen_config _switch_gen_config _switch_gen_config
+config_switch generate_switch_para generate_switch_para gen_lan_ports gen_lan_ports

@@ -1,0 +1,2 @@
+main main HwNatDumpEntry HwNatDumpEntry
+main main HwNatGetAllEntries HwNatGetAllEntries

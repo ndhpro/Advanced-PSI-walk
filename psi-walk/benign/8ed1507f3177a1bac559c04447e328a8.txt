@@ -1,0 +1,2 @@
+sub_8048BC2 sub_8048BC2 sub_8048BA0 sub_8048BA0
+sub_8048BC2 sub_8048BC2 _ZN6vectorIjED2Ev

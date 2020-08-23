@@ -1,0 +1,5 @@
+main main auth_check_options auth_check_options sub_41B7C4 sub_41B7C4 sub_41B010 sub_41B010 getword getword die die sub_406364 sub_406364
+main main auth_check_options auth_check_options sub_41B7C4 sub_41B7C4 sub_41B010 sub_41B010 getword getword option_error option_error vslprintf vslprintf
+main main auth_check_options auth_check_options sub_41B7C4 sub_41B7C4 sub_41B010 sub_41B010 novm novm
+main main auth_check_options auth_check_options sub_41B634 sub_41B634 sub_41B010 sub_41B010 getword getword die die sub_406364 sub_406364
+main main options_from_file options_from_file sub_420950 sub_420950 option_error option_error vslprintf vslprintf

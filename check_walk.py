@@ -1,18 +1,21 @@
 import os
 
 
-PATH = "psi_walk/malware/"
+file_list = []
+for root in ["psi-walk/malware/", "psi-walk/benign/"]:
+    for _, _, files in os.walk(root):
+        for file_name in files:
+            file_list.append(root + file_name)
+
 c = 0
-for _, _, files in os.walk(PATH):
-    for file in files:
-        try:
-            with open(PATH + file, 'r') as f:
-                dnew = f.read()
-            with open("D:/Projects/PSI-walk/datav2/malware/" + file, 'r') as f:
-                dold = f.read()
-        except Exception as e:
-            print(e)
-        if dnew != dold:
-            c += 1
-            print(file)
+for fx in file_list:
+    for fy in file_list:
+        if os.path.getsize(fx) == os.path.getsize(fy):
+            with open(fx, 'r') as f:
+                dx = f.read()
+            with open(fy, 'r') as f:
+                dy = f.read()
+            if dx == dy:
+                print(fx, fy)
+                c += 1
 print(c)

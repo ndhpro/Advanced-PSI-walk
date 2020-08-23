@@ -1,0 +1,5 @@
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute sendJoinLeaveUpstream sendJoinLeaveUpstream log log
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute internUpdateKernelRoute internUpdateKernelRoute delMRoute delMRoute log log
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport inetFmt inetFmt
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptLeaveMessage acceptLeaveMessage sendGroupSpecificMemberQuery sendGroupSpecificMemberQuery sendIgmp sendIgmp k_set_if k_set_if log log
+main main loadConfig loadConfig parsePhyintToken parsePhyintToken parseSubnetAddress parseSubnetAddress inetFmts inetFmts

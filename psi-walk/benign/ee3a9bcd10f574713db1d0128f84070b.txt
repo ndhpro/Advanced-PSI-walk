@@ -1,0 +1,7 @@
+main main sub_401690 sub_401690 acceptIgmp acceptIgmp activateRoute activateRoute insertRoute insertRoute sub_403F10 sub_403F10 leaveMcGroup leaveMcGroup inetFmt inetFmt
+main main sub_401690 sub_401690 acceptIgmp acceptIgmp activateRoute activateRoute insertRoute insertRoute sub_403F10 sub_403F10 leaveMcGroup leaveMcGroup log log
+main main sub_401690 sub_401690 acceptIgmp acceptIgmp activateRoute activateRoute insertRoute insertRoute sub_403F10 sub_403F10 log log
+main main sub_401690 sub_401690 acceptIgmp acceptIgmp activateRoute activateRoute insertRoute insertRoute sub_403C94 sub_403C94 addMRoute addMRoute log log
+main main sub_401690 sub_401690 acceptIgmp acceptIgmp activateRoute activateRoute sub_403C94 sub_403C94 addMRoute addMRoute log log
+main main sub_401690 sub_401690 acceptIgmp acceptIgmp acceptLeaveMessage acceptLeaveMessage log log
+main main sub_401690 sub_401690 sendGeneralMembershipQuery sendGeneralMembershipQuery sendIgmp sendIgmp k_set_if k_set_if log log

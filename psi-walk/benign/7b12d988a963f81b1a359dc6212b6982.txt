@@ -1,0 +1,2 @@
+main setuphost setuphost usage usage wakeme wakeme goodconnect goodconnect
+main usage usage wakeme wakeme goodconnect goodconnect

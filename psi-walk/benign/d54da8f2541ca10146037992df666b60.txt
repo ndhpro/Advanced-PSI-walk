@@ -1,0 +1,4 @@
+main main set_device_id set_device_id st_Login st_Login get_mac get_mac
+main main set_device_id set_device_id st_Login st_Login nvram_set_aae_status nvram_set_aae_status
+main main set_device_id set_device_id st_Logout st_Logout nvram_set_aae_status nvram_set_aae_status
+main main is_private_ip is_private_ip get_src_ip get_src_ip nvram_get_mac_addr nvram_get_mac_addr

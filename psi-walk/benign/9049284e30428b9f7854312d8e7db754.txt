@@ -1,0 +1,2 @@
+main main get_cpu_nr get_cpu_nr sub_40B0AC sub_40B0AC
+main main get_irqcpu_nr get_irqcpu_nr

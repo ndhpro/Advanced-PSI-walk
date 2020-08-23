@@ -1,0 +1,3 @@
+iptables_main iptables_main do_command4 do_command4 sub_405308 sub_405308 sub_405144 sub_405144
+iptables_main iptables_main do_command4 do_command4 print_rule4 print_rule4 sub_405C4C sub_405C4C
+get_kernel_version get_kernel_version do_command4 do_command4 sub_405308 sub_405308 sub_405144 sub_405144

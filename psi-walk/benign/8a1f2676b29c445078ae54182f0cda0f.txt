@@ -1,0 +1,6 @@
+sub_403A84 sub_403A84 client6_send client6_send dhcp6_set_options dhcp6_set_options sub_407CC8 sub_407CC8 my_dprintf my_dprintf
+sub_403A84 sub_403A84 client6_send client6_send dhcp6_set_options dhcp6_set_options sub_407CC8 sub_407CC8 dhcp6optstr dhcp6optstr
+sub_403A84 sub_403A84 client6_send client6_send dhcp6_set_options dhcp6_set_options sub_406E98 sub_406E98 my_dprintf my_dprintf
+sub_403A84 sub_403A84 client6_send client6_send duidcpy duidcpy my_dprintf my_dprintf
+sub_403A84 sub_403A84 client6_script client6_script safefile safefile my_dprintf my_dprintf
+sub_40E128 sub_40E128 client6_send client6_send dhcp6_set_options dhcp6_set_options sub_407CC8 sub_407CC8 my_dprintf my_dprintf

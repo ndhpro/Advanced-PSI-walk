@@ -1,0 +1,3 @@
+main eapd_wksp_auto_config eapd_wksp_auto_config nas_app_enabled nas_app_enabled eapd_safe_get_conf eapd_safe_get_conf
+main eapd_wksp_auto_config eapd_wksp_auto_config wps_app_enabled wps_app_enabled eapd_safe_get_conf eapd_safe_get_conf
+main eapd_wksp_main_loop eapd_wksp_main_loop eapd_wksp_init eapd_wksp_init

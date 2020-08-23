@@ -1,0 +1,3 @@
+main main discover_interfaces discover_interfaces if_register_receive if_register_receive sub_403658 sub_403658 error error sub_4088F0 sub_4088F0
+main main discover_interfaces discover_interfaces sub_4024FC sub_4024FC error error sub_4088F0 sub_4088F0
+main main sub_401BB8 sub_401BB8 error error sub_4088F0 sub_4088F0

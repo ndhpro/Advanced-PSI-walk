@@ -1,0 +1,3 @@
+main main WscUPnPDevStart WscUPnPDevStart SampleUtil_FindAndParseService SampleUtil_FindAndParseService SampleUtil_GetFirstServiceList SampleUtil_GetFirstServiceList
+main main WscUPnPDevStart WscUPnPDevStart wsc_get_oid wsc_get_oid
+main main usage usage sig_handler sig_handler

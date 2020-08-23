@@ -1,0 +1,4 @@
+_ftext _ftext sub_40C8E4 sub_40C8E4 sub_40C770 sub_40C770 sub_404E30 sub_404E30 sub_40BF5C sub_40BF5C sub_409F40 sub_409F40 sub_407D90 sub_407D90
+_ftext _ftext sub_40C8E4 sub_40C8E4 sub_40C770 sub_40C770 sub_404E30 sub_404E30 sub_40BF5C sub_40BF5C sub_409F40 sub_409F40 sub_409E7C sub_409E7C
+_ftext _ftext sub_40C8E4 sub_40C8E4 sub_40C770 sub_40C770 sub_404E30 sub_404E30 sub_40BF5C sub_40BF5C sub_40A204 sub_40A204 sub_406FF0 sub_406FF0
+_ftext _ftext sub_40C8E4 sub_40C8E4 sub_40C770 sub_40C770 sub_404E30 sub_404E30 sub_4091A4 sub_4091A4

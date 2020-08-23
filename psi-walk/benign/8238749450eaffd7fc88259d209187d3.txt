@@ -1,0 +1,2 @@
+main main _ZN6vectorIjEC2Ej
+sub_40568C sub_405220 sub_405220

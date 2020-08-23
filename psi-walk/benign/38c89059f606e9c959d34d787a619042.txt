@@ -1,0 +1,2 @@
+cnid_dbd_add cnid_dbd_add sub_10F94 sub_10F94 sub_10E20 sub_10E20
+cnid_dbd_get cnid_dbd_get sub_10F94 sub_10F94 sub_10E20 sub_10E20

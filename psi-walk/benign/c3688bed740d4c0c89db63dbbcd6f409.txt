@@ -1,0 +1,2 @@
+main main HwNatSetRuleSize HwNatSetRuleSize
+main main HwNatSetSchWeight HwNatSetSchWeight

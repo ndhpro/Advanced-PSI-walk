@@ -1,0 +1,3 @@
+_ftext _ftext sub_4012EC sub_4012EC sub_400FC0 sub_400FC0
+_ftext _ftext sub_401060 sub_401060
+sub_401228 sub_401228 sub_400FC0 sub_400FC0

@@ -1,0 +1,5 @@
+packetio_recv_handler packetio_recv_handler qosrcvpkt qosrcvpkt sub_414678 sub_414678 tx_write tx_write die die warn warn
+packetio_recv_handler packetio_recv_handler qosrcvpkt qosrcvpkt sub_414678 sub_414678 warn warn
+packetio_recv_handler packetio_recv_handler qosrcvpkt qosrcvpkt sub_414C80 sub_414C80 tx_write tx_write die die warn warn
+packetio_recv_handler packetio_recv_handler sub_40976C sub_40976C warn warn
+main main sub_406930 sub_406930 xmalloc xmalloc die die warn warn

@@ -1,0 +1,1 @@
+main kill_daemons find_pid_by_name

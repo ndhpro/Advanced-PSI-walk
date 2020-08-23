@@ -1,0 +1,5 @@
+main main ProcessSSDPRequest ProcessSSDPRequest ParseUPnPClient ParseUPnPClient SearchClientCache SearchClientCache log_err log_err
+main main ProcessSSDPRequest ProcessSSDPRequest ParseUPnPClient ParseUPnPClient SearchClientCache SearchClientCache get_remote_mac get_remote_mac
+main main ProcessSSDPRequest ProcessSSDPRequest ParseUPnPClient ParseUPnPClient AddClientCache AddClientCache get_remote_mac get_remote_mac
+main main ProcessSSDPRequest ProcessSSDPRequest sub_41544C sub_41544C log_err log_err
+main main sub_4053E8 sub_4053E8 CreateDatabase CreateDatabase GetFolderMetadata GetFolderMetadata sql_exec sql_exec log_err log_err

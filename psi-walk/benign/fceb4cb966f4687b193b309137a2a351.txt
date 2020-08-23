@@ -1,0 +1,3 @@
+main main libubi_open libubi_open read_positive_int read_positive_int read_positive_ll read_positive_ll
+main main libubi_open libubi_open mkpath mkpath
+main main print_general_info print_general_info print_dev_info print_dev_info print_vol_info print_vol_info ubiutils_print_bytes ubiutils_print_bytes

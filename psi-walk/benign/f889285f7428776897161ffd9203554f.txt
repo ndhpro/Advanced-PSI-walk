@@ -1,0 +1,5 @@
+main main pcap_compile pcap_compile pcap_parse pcap_parse gen_scode gen_scode sub_48353C sub_48353C sub_47F9D4 sub_47F9D4 bpf_error bpf_error
+main main pcap_compile pcap_compile pcap_parse pcap_parse gen_scode gen_scode sub_48353C sub_48353C sub_47A00C sub_47A00C bpf_error bpf_error
+main main pcap_compile pcap_compile pcap_parse pcap_parse gen_scode gen_scode gen_load gen_load bpf_error bpf_error
+main main pcap_compile pcap_compile pcap_parse pcap_parse gen_mcode gen_mcode bpf_error bpf_error
+main main pcap_compile pcap_compile bpf_optimize bpf_optimize bpf_error bpf_error

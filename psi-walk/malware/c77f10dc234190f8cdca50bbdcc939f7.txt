@@ -1,0 +1,4 @@
+processCmd botnetTScan botnetTScan fcntl fcntl64 __errno_location
+processCmd botnetTScan botnetTScan fcntl __errno_location
+processCmd botnetTScan botnetTScan select __errno_location
+processCmd fork __errno_location

@@ -1,0 +1,4 @@
+_ftext _ftext sub_408764 sub_408764 sub_406E84 sub_406E84 sub_4026F0 sub_4026F0 sub_4125F0 sub_4125F0
+_ftext _ftext sub_408764 sub_408764 sub_406E84 sub_406E84 sub_4026F0 sub_4026F0 sub_4135C8 sub_4135C8
+_ftext _ftext sub_408764 sub_408764 sub_406E84 sub_406E84 sub_404B4C sub_404B4C sub_413688 sub_413688
+_ftext _ftext sub_408764 sub_408764 sub_4082B4 sub_4082B4

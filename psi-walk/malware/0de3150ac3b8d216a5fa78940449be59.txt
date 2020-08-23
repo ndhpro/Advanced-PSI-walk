@@ -1,0 +1,2 @@
+sub_10004A58 sub_100047FC sub_100047FC
+start sub_1000A7F0 sub_1000A7F0

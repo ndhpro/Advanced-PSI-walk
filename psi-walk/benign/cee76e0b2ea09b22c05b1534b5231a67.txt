@@ -1,0 +1,2 @@
+main dns_init dns_init cache_purge cache_purge cache_add_hosts_entries cache_add_hosts_entries
+dns_main_loop cache_purge cache_purge cache_add_hosts_entries cache_add_hosts_entries

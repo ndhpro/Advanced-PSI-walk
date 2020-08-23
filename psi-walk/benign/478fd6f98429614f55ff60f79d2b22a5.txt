@@ -1,0 +1,7 @@
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute sendJoinLeaveUpstream sendJoinLeaveUpstream log log
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute sendJoinLeaveUpstream sendJoinLeaveUpstream inetFmt inetFmt
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute inetFmt inetFmt
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insert_multicast_ip insert_multicast_ip sub_40C680 sub_40C680 sub_40EC50 sub_40EC50 sub_40EAA4 sub_40EAA4 log log
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp activateRoute activateRoute inetFmt inetFmt
+main main igmpProxyRun igmpProxyRun sendGeneralMembershipQuery sendGeneralMembershipQuery log log
+main main loadConfig loadConfig parsePhyintToken parsePhyintToken parseSubnetAddress parseSubnetAddress log log

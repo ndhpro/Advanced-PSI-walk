@@ -1,0 +1,4 @@
+insmod_main insmod_main sub_409A14 sub_409A14 sub_4098DC sub_4098DC xmalloc xmalloc
+insmod_main insmod_main sub_409A14 sub_409A14 sub_409788 sub_409788
+insmod_main insmod_main sub_40A7F8 sub_40A7F8 sub_408ECC sub_408ECC
+wget_main wget_main sub_415424 sub_415424 get_terminal_width_height get_terminal_width_height

@@ -1,0 +1,2 @@
+main buildIfVc log
+main addVIF log

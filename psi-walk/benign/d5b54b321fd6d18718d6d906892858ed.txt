@@ -1,0 +1,2 @@
+main wpsap_wksp_mainloop wpsap_wksp_mainloop sub_40583C sub_40583C wps_setProcessStates wps_setProcessStates
+main wpsap_wksp_mainloop wpsap_wksp_mainloop wps_start_ap_registration wps_start_ap_registration devcfg_getKeyMgmtType devcfg_getKeyMgmtType

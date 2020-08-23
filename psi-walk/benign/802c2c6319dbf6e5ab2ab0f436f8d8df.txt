@@ -1,0 +1,9 @@
+main run handle_tcprequest handle_query master_lookup sub_4065B4 read_configuration sub_4053F0 sub_405208 log_msg
+main run handle_tcprequest handle_query master_lookup sub_4065B4 read_configuration sub_4053F0 log_msg
+main run handle_tcprequest handle_query master_lookup sub_4065B4 read_configuration read_hosts get_hostname
+main run handle_tcprequest handle_query master_lookup sub_4065B4 read_hosts get_hostname
+main run handle_tcprequest handle_query master_lookup dump_dnspacket sub_403788 sub_4035C4 sub_4035C4 log_debug
+main run handle_tcprequest handle_query dump_dnspacket sub_403788 sub_4035C4 sub_4035C4 log_debug
+main run handle_tcprequest dump_dnspacket sub_403788 sub_4035C4 sub_4035C4 log_debug
+main run handle_udprequest handle_query master_lookup sub_4065B4 read_configuration sub_4053F0 sub_405208 log_msg
+main master_init sub_4065B4 read_configuration sub_4053F0 sub_405208 log_msg

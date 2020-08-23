@@ -1,0 +1,2 @@
+sub_400FA4 sub_400FA4 igs_cfg_request_send igs_cfg_request_send
+main main sub_400A14 sub_400A14

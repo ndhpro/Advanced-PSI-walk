@@ -1,0 +1,1 @@
+main adsl_ate adsl_ate switch_init switch_init

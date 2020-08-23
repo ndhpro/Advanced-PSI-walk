@@ -1,0 +1,5 @@
+sub_40E4F0 sub_40A1C0 sub_40A1C0 _Z7commandiPKci _Z7commandiPKci sub_406878 sub_406878 sub_4066D8 sub_4066D8
+sub_40E4F0 sub_40A1C0 sub_40A1C0 _Z7commandiPKci _Z7commandiPKci sub_4049D0 sub_4049D0 sub_404A7C sub_404A7C sub_4049D0 sub_4049D0 sub_404A7C sub_404A7C sub_4049D0 sub_4049D0 sub_404A7C sub_404A7C sub_4049D0 sub_4049D0 sub_404A7C sub_404A7C _Z11printoptionPKcii _Z11printoptionPKcii
+sub_40E4F0 sub_40A1C0 sub_40A1C0 _ZN7ringbuf5writeEPKci _ZN7ringbuf5writeEPKci
+sub_40E4F0 _Z6telrcvv _Z6telrcvv sub_40C53C sub_40C53C sub_40B0C4 sub_40B0C4
+main main _Z7commandiPKci _Z7commandiPKci sub_406878 sub_406878 sub_4066D8 sub_4066D8

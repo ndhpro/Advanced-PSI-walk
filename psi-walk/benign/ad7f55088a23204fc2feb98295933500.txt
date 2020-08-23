@@ -1,0 +1,6 @@
+main main udpxy_main udpxy_main srv_loop srv_loop process_requests process_requests sub_403150 sub_403150 mk_status_page mk_status_page mperror mperror tmfprintf tmfprintf get_pidstr get_pidstr
+main main udpxy_main udpxy_main srv_loop srv_loop process_requests process_requests sub_403150 sub_403150 mk_status_page mk_status_page tmfprintf tmfprintf get_pidstr get_pidstr
+main main udpxy_main udpxy_main srv_loop srv_loop process_requests process_requests sub_403150 sub_403150 set_nblock set_nblock mperror mperror tmfprintf tmfprintf get_pidstr get_pidstr
+main main udpxy_main udpxy_main srv_loop srv_loop process_requests process_requests read_data read_data get_mstream_type get_mstream_type tmfprintf tmfprintf get_pidstr get_pidstr
+main main udpxy_main udpxy_main srv_loop srv_loop accept_requests accept_requests set_nblock set_nblock mperror mperror tmfprintf tmfprintf get_pidstr get_pidstr
+main main udpxy_main udpxy_main init_uopt init_uopt txtf_read txtf_read mperror mperror tmfprintf tmfprintf get_pidstr get_pidstr

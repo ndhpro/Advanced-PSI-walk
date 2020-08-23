@@ -1,0 +1,3 @@
+main main send_login_page send_login_page sub_403EA4 sub_403EA4 sub_403C64 sub_403C64
+main main sub_403EA4 sub_403EA4 sub_403C64 sub_403C64
+sub_41D354 sub_41D354 ej_wl_status ej_wl_status dump_rateset dump_rateset

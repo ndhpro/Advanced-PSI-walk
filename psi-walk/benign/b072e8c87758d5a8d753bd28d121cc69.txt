@@ -1,0 +1,2 @@
+main main sub_40BE50 sub_40BE50
+sub_40AFF4 sub_40AFF4 inet_get_if_ppp inet_get_if_ppp inet_open_rawsock inet_open_rawsock

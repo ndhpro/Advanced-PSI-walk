@@ -1,0 +1,4 @@
+do_iproute do_iproute iproute_modify iproute_modify sub_407A00 sub_407A00 sub_407D88 sub_407D88 rtnl_send_check rtnl_send_check
+do_iproute do_iproute iproute_modify iproute_modify get_jiffies get_jiffies __get_hz __get_hz
+do_iproute do_iproute iproute_get iproute_get sub_407A00 sub_407A00 sub_407D88 sub_407D88 rtnl_send_check rtnl_send_check
+do_ipaddr do_ipaddr sub_403E34 sub_403E34 sub_403C78 sub_403C78

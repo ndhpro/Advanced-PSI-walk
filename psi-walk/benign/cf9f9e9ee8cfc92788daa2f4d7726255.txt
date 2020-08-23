@@ -1,0 +1,4 @@
+start sub_81A4 sub_81A4 sub_BCE0 sub_BCE0 sub_4EBDC sub_4EBDC sub_4DDF4 sub_4DDF4 sub_452F0 sub_452F0 sub_425A8 sub_425A8 sub_51C14 sub_51C14
+start sub_81A4 sub_81A4 sub_BCE0 sub_BCE0 sub_4EBDC sub_4EBDC sub_4DDF4 sub_4DDF4 sub_452F0 sub_452F0 sub_425A8 sub_425A8 sub_54BCC sub_54BCC
+start sub_81A4 sub_81A4 sub_BCE0 sub_BCE0 sub_4EBDC sub_4EBDC sub_4DDF4 sub_4DDF4 sub_452F0 sub_452F0 sub_4366C sub_4366C sub_51C14 sub_51C14
+start sub_81A4 sub_81A4 sub_BCE0 sub_BCE0 sub_4EBDC sub_4EBDC sub_4DDF4 sub_4DDF4 sub_479C0 sub_479C0 sub_5BF58 sub_5BF58 sub_5B994 sub_5B994

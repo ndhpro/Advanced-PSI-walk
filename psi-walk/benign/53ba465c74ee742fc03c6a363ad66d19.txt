@@ -1,0 +1,2 @@
+main main sub_403D74 sub_403D74 sub_4046FC sub_4046FC
+main main sub_403D74 sub_403D74 _ZN6vectorI6stringED2Ev

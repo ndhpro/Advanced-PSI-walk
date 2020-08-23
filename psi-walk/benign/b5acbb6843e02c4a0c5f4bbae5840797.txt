@@ -1,0 +1,2 @@
+process_logon_packet process_logon_packet send_mailslot send_mailslot
+sub_4060B0 sub_4060B0 sub_405EC0 sub_405EC0 register_name register_name sub_40E4EC sub_40E4EC queue_register_multihomed_name queue_register_multihomed_name sub_410448 sub_410448

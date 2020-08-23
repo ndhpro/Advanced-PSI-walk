@@ -1,0 +1,2 @@
+zebra_if_init zebra_if_init install_element install_element sub_40965C sub_40965C
+main main vty_read_config vty_read_config

@@ -1,0 +1,4 @@
+sub_41152C sub_41152C sub_40F828 sub_40F828 run_program run_program safe_fork safe_fork
+sub_41152C sub_41152C sub_40F828 sub_40F828 run_program run_program sub_406104 sub_406104
+sub_41152C sub_41152C sifdefaultroute sifdefaultroute sub_428BA0 sub_428BA0 sub_427888 sub_427888
+main main detach detach script_setenv script_setenv

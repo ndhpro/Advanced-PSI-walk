@@ -1,0 +1,3 @@
+getVirtualIndex getIndex whichWlanIfIs SetWlan_idx
+getVirtualIndex getIndex isDhcpClientExist getPid
+getVirtualInfo getInfo getDefaultRoute

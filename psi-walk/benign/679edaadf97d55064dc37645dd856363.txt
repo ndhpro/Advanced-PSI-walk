@@ -1,0 +1,2 @@
+main auto_channel_select WlSiteSurvey
+main Check_Wlan_Connected

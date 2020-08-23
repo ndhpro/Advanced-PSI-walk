@@ -1,0 +1,3 @@
+main main readArguments readArguments readConfigFile readConfigFile ReadParseParam ReadParseParam
+main main readArguments readArguments printVersion printVersion
+main main checkSuccess checkSuccess search_devices search_devices get_current_configuration get_current_configuration

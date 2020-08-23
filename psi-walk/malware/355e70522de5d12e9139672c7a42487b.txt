@@ -1,0 +1,4 @@
+start_scanner gpon8080_scanner gpon8080_scanner gpon8080_setup_connection gpon8080_setup_connection fcntl
+start_scanner gpon8080_scanner gpon8080_scanner gpon8080_setup_connection gpon8080_setup_connection socket
+start_scanner gpon8080_scanner gpon8080_scanner util_local_addr util_local_addr printf
+start_scanner realtek_scanner realtek_scanner memmove

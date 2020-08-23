@@ -1,0 +1,5 @@
+main main relayLoop relayLoop relayGotDiscoveryPacket relayGotDiscoveryPacket relayHandlePADS relayHandlePADS sendPacket sendPacket sysErr sysErr printErr printErr
+main main relayLoop relayLoop relayGotDiscoveryPacket relayGotDiscoveryPacket relayHandlePADS relayHandlePADS createSession createSession printErr printErr
+main main relayLoop relayLoop relayGotDiscoveryPacket relayGotDiscoveryPacket relayHandlePADR relayHandlePADR sendPacket sendPacket sysErr sysErr printErr printErr
+main main relayLoop relayLoop relayGotSessionPacket relayGotSessionPacket receivePacket receivePacket sysErr sysErr printErr printErr
+main main addInterface addInterface openInterface openInterface fatalSys fatalSys printErr printErr

@@ -1,0 +1,3 @@
+insmod_main insmod_main sub_4095B4 sub_4095B4 sub_40947C sub_40947C xmalloc xmalloc
+insmod_main insmod_main sub_4095B4 sub_4095B4 sub_409328 sub_409328
+insmod_main insmod_main sub_40A398 sub_40A398 sub_408A6C sub_408A6C

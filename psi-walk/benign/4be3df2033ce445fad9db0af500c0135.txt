@@ -1,0 +1,3 @@
+main main phddns_step phddns_step ExecuteUpdate ExecuteUpdate log_print log_print
+main main phddns_step phddns_step RecvKeepaliveResponse RecvKeepaliveResponse InitBlowfish InitBlowfish
+main main checkparameter checkparameter ParameterAnalysis ParameterAnalysis InitIni InitIni LoadFile LoadFile NewnicName NewnicName ShowNic ShowNic

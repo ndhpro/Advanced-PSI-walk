@@ -1,0 +1,3 @@
+main main if_wan_phyconnected if_wan_phyconnected first_enter_repeater first_enter_repeater pre_rSetting pre_rSetting find_name_by_proc find_name_by_proc check_task check_task
+main main if_wan_phyconnected if_wan_phyconnected chk_proto chk_proto
+main main build_socket build_socket passivesock passivesock

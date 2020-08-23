@@ -1,0 +1,3 @@
+main main send_login_page send_login_page sub_403E84 sub_403E84 sub_403C44 sub_403C44
+main main sub_403E84 sub_403E84 sub_403C44 sub_403C44
+sub_41D018 sub_41D018 ej_wl_status ej_wl_status sub_424384 sub_424384

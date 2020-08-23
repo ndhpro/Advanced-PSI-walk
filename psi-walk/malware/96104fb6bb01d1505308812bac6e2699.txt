@@ -1,0 +1,5 @@
+main main processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf send __errno_location
+main main processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf print print
+main main processCmd processCmd StartTheLelz StartTheLelz send __errno_location
+main main processCmd processCmd RemoveTMP RemoveTMP system system wait4 __errno_location
+main main recvLine recvLine sockprintf sockprintf send __errno_location

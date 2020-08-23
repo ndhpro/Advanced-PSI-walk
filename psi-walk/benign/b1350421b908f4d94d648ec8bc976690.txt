@@ -1,0 +1,4 @@
+sub_403690 sub_403690 main main sub_4136C0 sub_4136C0 sub_40F5E4 sub_40F5E4 sub_40F280 sub_40F280 sub_40D78C sub_40D78C sub_40AF40 sub_40AF40
+sub_403690 sub_403690 main main sub_4136C0 sub_4136C0 sub_40F5E4 sub_40F5E4 sub_4086D8 sub_4086D8
+sub_403690 sub_403690 main main sub_4136C0 sub_4136C0 sub_406000 sub_406000 test_wavefile_read test_wavefile_read
+sub_403690 sub_403690 main main sub_415554 sub_415554 playbackv_go playbackv_go sub_40DC6C sub_40DC6C sub_40D588 sub_40D588

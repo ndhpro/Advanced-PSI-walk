@@ -1,0 +1,2 @@
+realloc_check realloc_check fprintf vfprintf vfprintf strerror_r strerror_r mempcpy
+realloc_check realloc_check fprintf vfprintf vfprintf wcsrtombs wcsrtombs __wcsmbs_load_conv __wcsmbs_load_conv malloc

@@ -1,0 +1,6 @@
+main main auth_check_options auth_check_options sub_4175D4 sub_4175D4 sub_4170D0 sub_4170D0 getword getword die die reopen_log reopen_log
+main main auth_check_options auth_check_options sub_4175D4 sub_4175D4 sub_4170D0 sub_4170D0 getword getword die die print_link_stats print_link_stats
+main main auth_check_options auth_check_options sub_4175D4 sub_4175D4 sub_4170D0 sub_4170D0 getword getword option_error option_error vslprintf vslprintf
+main main auth_check_options auth_check_options sub_4175D4 sub_4175D4 sub_4170D0 sub_4170D0 novm novm
+main main auth_check_options auth_check_options sub_41770C sub_41770C sub_4170D0 sub_4170D0 getword getword die die reopen_log reopen_log
+main main options_from_file options_from_file sub_41B654 sub_41B654 int_option int_option option_error option_error vslprintf vslprintf

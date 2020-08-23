@@ -1,0 +1,5 @@
+main main start_scanner start_scanner gpon8080_scanner gpon8080_scanner gpon8080_setup_connection gpon8080_setup_connection connect
+main main start_scanner start_scanner gpon8080_scanner gpon8080_scanner gpon8080_setup_connection gpon8080_setup_connection fcntl
+main main start_scanner start_scanner gpon8080_scanner gpon8080_scanner __errno_location
+main main start_scanner start_scanner realtek_scanner realtek_scanner printf
+main main killer_init killer_init table_retrieve_val table_retrieve_val printf

@@ -1,0 +1,3 @@
+ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status wl_control_channel wl_control_channel sub_427990 sub_427990
+ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status sub_428A3C sub_428A3C
+sub_421934 sub_421934 ej_wl_status ej_wl_status wl_control_channel wl_control_channel sub_427990 sub_427990
