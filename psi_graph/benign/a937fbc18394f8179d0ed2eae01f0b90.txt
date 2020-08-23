@@ -1,8 +1,0 @@
-7
-is_phyconnected getDefaultGW getWanInfo arpping chk_udhcpc main _ftext 
-detectWAN_arp is_phyconnected
-detectWAN_arp is_phyconnected
-getWanInfo getDefaultGW
-get_related_nvram getWanInfo
-detectWAN_arp arpping
-detectWAN_arp chk_udhcpc

@@ -1,5 +1,0 @@
-4
-_ZN6vectorIjEC2Ej _ftext _ftext _ftext 
-_ftext _ZN6vectorIjEC2Ej
-_ftext _ftext
-_ftext _ftext

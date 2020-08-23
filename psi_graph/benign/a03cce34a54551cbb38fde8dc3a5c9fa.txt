@@ -1,4 +1,0 @@
-3
-report main get_wlan0_stats 
-main report
-report get_wlan0_stats

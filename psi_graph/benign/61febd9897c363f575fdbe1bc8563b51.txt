@@ -1,7 +1,0 @@
-7
-sub_401F18 _ftext _ftext sub_401F18 sub_401F18 sub_401F18 _ftext 
-_ftext _ftext
-_ftext _ftext
-sub_401F18 sub_401F18
-sub_401F18 sub_401F18
-sub_401F18 sub_401F18

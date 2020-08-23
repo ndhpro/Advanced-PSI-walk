@@ -1,8 +1,0 @@
-botkiller botkiller opendir calloc malloc sbrk __init_brk _brk __errno_location
-botkiller botkiller opendir calloc malloc sbrk __init_brk __errno_location
-botkiller botkiller opendir calloc malloc sbrk _brk __errno_location
-botkiller botkiller opendir calloc malloc __errno_location
-botkiller botkiller opendir calloc __udivsi3_i4
-botkiller botkiller opendir malloc sbrk __init_brk _brk __errno_location
-botkiller botkiller sleep sigaction __syscall_rt_sigaction __errno_location
-tcpFl00d tcpFl00d tcpcsum malloc sbrk __init_brk _brk __errno_location

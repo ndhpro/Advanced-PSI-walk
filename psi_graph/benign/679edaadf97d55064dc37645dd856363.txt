@@ -1,6 +1,0 @@
-6
-Check_Wlan_Connected WlSiteSurvey main auto_channel_select wlSiteSurvey_acs _ftext 
-main Check_Wlan_Connected
-auto_channel_select WlSiteSurvey
-main auto_channel_select
-auto_channel_select wlSiteSurvey_acs

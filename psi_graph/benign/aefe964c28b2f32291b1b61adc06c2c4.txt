@@ -1,7 +1,0 @@
-7
-sub_4022EC _ftext _ftext sub_4022EC sub_4022EC sub_4022EC _ftext 
-_ftext _ftext
-_ftext _ftext
-sub_4022EC sub_4022EC
-sub_4022EC sub_4022EC
-sub_4022EC sub_4022EC

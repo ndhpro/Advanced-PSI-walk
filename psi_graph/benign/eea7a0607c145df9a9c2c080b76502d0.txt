@@ -1,9 +1,0 @@
-9
-send_cmd main send_cmd send_cmd send_cmd send_cmd main main _ftext 
-main send_cmd
-send_cmd send_cmd
-send_cmd send_cmd
-send_cmd send_cmd
-send_cmd send_cmd
-main main
-main main
