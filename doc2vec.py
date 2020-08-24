@@ -39,21 +39,24 @@ def load_data():
         d), tags=[str(i)]) for i, d in enumerate(X_train)]
     tagged_X_test = [TaggedDocument(words=word_tokenize(
         d), tags=[str(i)]) for i, d in enumerate(X_test)]
-    print(len(tagged_X_train), len(tagged_X_test))
+
     return tagged_X_train, tagged_X_test, y_train, y_test
 
 
 def doc2vec(X_train, X_test):
+    print(f"Performing Doc2vec on {len(X_train)} documents...",)
     num_cores = multiprocessing.cpu_count()
-    model = Doc2Vec(vector_size=16, dm=1, workers=num_cores, negative=5)
-    model.build_vocab(X_train)
-
-    print("Training...")
-    for epoch in tqdm(range(50)):
-        model.train(utils.shuffle([x for x in X_train]), total_examples=len(
-            X_train), epochs=1)
-        model.alpha -= 0.002
-        model.min_alpha = model.alpha
+    try:
+        model = Doc2Vec(X_train,
+                        vector_size=64,
+                        dm=1,
+                        window=2,
+                        negative=5,
+                        workers=num_cores,
+                        epochs=100,
+                        alpha=0.025)
+    except Exception as e:
+        print(e)
 
     print("Generating embeddings...")
     X_train_emb = [model.infer_vector(doc.words) for doc in X_train]

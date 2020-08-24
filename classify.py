@@ -13,6 +13,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import LinearSVC, SVC
+# from imblearn.over_sampling import SMOTE
 
 
 def report(names, y_true, y_pred, train_t, test_t):
@@ -60,6 +61,9 @@ def draw_roc(names, colors, y_true, y_pred):
 
 
 def preprocessing(X_train, X_test, y_train, y_test):
+    # sm = SMOTE(random_state=2020)
+    # X_train, y_train = sm.fit_resample(X_train, y_train)
+
     fs = SelectFromModel(
         LinearSVC(penalty="l1", dual=False, random_state=2020).fit(X_train, y_train), prefit=True)
     X_train = fs.transform(X_train)
@@ -77,6 +81,7 @@ def classify(X_train, X_test, y_train, y_test):
     X_train, X_test, y_train, y_test = preprocessing(
         X_train, X_test, y_train, y_test)
 
+    print("Processed dataset size: ", X_train.shape, X_test.shape)
     y_true, y_pred, train_t, test_t = {}, {}, {}, {}
 
     names = ["Naive Bayes", "Decision Tree",
@@ -105,7 +110,7 @@ def classify(X_train, X_test, y_train, y_test):
               "purple", "brown", "pink", "gray"]
 
     for name, fname, est, hyper in zip(names, fnames, classifiers, hyperparam):
-        print(f"Running {name}...")
+        print(f"Running {name}...", end=' ', flush=True)
         clf = GridSearchCV(est, hyper, cv=5, n_jobs=-1)
 
         t = time()
