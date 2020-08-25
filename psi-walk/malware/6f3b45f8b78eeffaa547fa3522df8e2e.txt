@@ -1,3 +1,0 @@
-start sub_C5B4 sub_C5B4 sub_A7B4 sub_A7B4
-start sub_12C0C sub_12C0C
-sub_11764 sub_12574 sub_12574 sub_12428 sub_12428 sub_13A6C sub_13A6C

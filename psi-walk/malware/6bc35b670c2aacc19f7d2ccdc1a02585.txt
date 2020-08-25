@@ -1,3 +1,0 @@
-main main HTTPSCANNER_SCanner_init HTTPSCANNER_SCanner_init memmove memcpy
-main main HTTPSCANNER_SCanner_init HTTPSCANNER_SCanner_init send
-main main processCmd processCmd atol strtol

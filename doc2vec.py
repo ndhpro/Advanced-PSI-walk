@@ -20,11 +20,11 @@ def load_data():
     for file_name in tqdm(file_list):
         with open(file_name, 'r') as f:
             x = f.read()
-            c = 0
-            for w in x.split():
-                if not "sub" in w:
-                    c = 1
-                    break
+            c = 1
+            # for w in x.split():
+            #     if not "sub" in w:
+            #         c = 1
+            #         break
             if c:
                 data[x] = 0 if "benign" in file_name else 1
     X, y = list(), list()
@@ -57,6 +57,7 @@ def doc2vec(X_train, X_test):
                         alpha=0.025)
     except Exception as e:
         print(e)
+    model.save("result/model/d2v.model")
 
     print("Generating embeddings...")
     X_train_emb = [model.infer_vector(doc.words) for doc in X_train]
