@@ -42,5 +42,5 @@ for _, _, files in os.walk(root):
 
 acc = 100 * float(true) / total
 print("Total:", total)
-print("Correctly predicte:", true)
+print("Correctly predicted:", true)
 print("Accuracy (Unknown botnet): %0.2f" % acc)
