@@ -1,4 +1,0 @@
-sub_AC58 sub_AC58 sub_A808 sub_A808 sub_A690 sub_A690 sub_A404 sub_A404 sub_A320 sub_A320
-sub_AC58 sub_AC58 sub_A808 sub_A808 sub_A690 sub_A690 sub_A2B4 sub_A2B4 sub_A144 sub_A144 sub_B04C sub_B04C
-sub_AC58 sub_AC58 sub_AA9C sub_AA9C sub_A690 sub_A690 sub_A404 sub_A404 sub_A320 sub_A320
-sub_A780 sub_A780 sub_A690 sub_A690 sub_A404 sub_A404 sub_A320 sub_A320

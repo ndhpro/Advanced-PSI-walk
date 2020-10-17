@@ -1,5 +1,0 @@
-main main udp_rcv_test udp_rcv_test result_summary result_summary prusage prusage calc_cpu_time calc_cpu_time
-main main udp_rcv_test udp_rcv_test result_summary result_summary prusage prusage calc_real_time calc_real_time
-main main udp_rcv_test udp_rcv_test result_summary result_summary calc_real_time calc_real_time
-main main udp_rcv_test udp_rcv_test Nread Nread mread mread
-main main result_summary result_summary prusage prusage calc_cpu_time calc_cpu_time

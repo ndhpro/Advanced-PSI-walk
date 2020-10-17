@@ -1,2 +1,0 @@
-sub_100F7AE0 _ZN6vectorIjED2Ev
-sub_101167E0 _ZN6vectorIjED2Ev

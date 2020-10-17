@@ -1,3 +1,0 @@
-ej_lan_ipv6_network ej_lan_ipv6_network killall killall psname psname
-ej_lan_ipv6_network ej_lan_ipv6_network init_file init_file
-main main is_firsttime is_firsttime

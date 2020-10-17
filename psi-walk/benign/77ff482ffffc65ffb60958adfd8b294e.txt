@@ -1,2 +1,0 @@
-main main sub_403880 sub_403880 sub_4030C0 sub_4030C0 wmlog_dumphexasc wmlog_dumphexasc
-main main sub_4040D0 sub_4040D0 sub_4030C0 sub_4030C0 wmlog_dumphexasc wmlog_dumphexasc

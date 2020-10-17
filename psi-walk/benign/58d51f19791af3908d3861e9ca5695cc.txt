@@ -1,5 +1,0 @@
-sub_F5F8 sub_B914 sub_B914 sub_B68C sub_B68C sub_18248 sub_18248 sub_1408C sub_1408C sub_188D8 sub_188D8
-sub_F5F8 sub_B914 sub_B914 sub_B68C sub_B68C sub_18248 sub_18248 sub_188D8 sub_188D8
-sub_F5F8 sub_B914 sub_B914 sub_B68C sub_B68C sub_17B98 sub_17B98 sub_12F44 sub_12F44
-sub_F5F8 sub_B914 sub_B914 sub_1A59C sub_1A59C sub_1408C sub_1408C sub_188D8 sub_188D8
-sub_F5F8 sub_D43C sub_D43C sub_18248 sub_18248 sub_1408C sub_1408C sub_188D8 sub_188D8

@@ -1,6 +1,0 @@
-main auth_check_options sub_41D9A8 sub_41C434 getword die print_link_stats
-main auth_check_options sub_41D9A8 sub_41C434 getword die remove_pidfiles
-main auth_check_options sub_41D9A8 sub_41C434 getword option_error vslprintf
-main auth_check_options sub_41D9A8 sub_41C434 sub_41C0B4
-main auth_check_options sub_41D7E8 sub_41C434 getword die print_link_stats
-main options_from_file sub_4200B4 sub_41FFCC option_error vslprintf

@@ -1,3 +1,0 @@
-main main FindAllApp FindAllApp send_mdns_packet_ipv4 send_mdns_packet_ipv4 open_socket_ipv4 open_socket_ipv4
-main main FindAllApp FindAllApp lpd515 lpd515
-main main create_socket create_socket

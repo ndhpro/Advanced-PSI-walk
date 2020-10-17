@@ -1,6 +1,0 @@
-main main sub_408094 sub_408094 sub_407B5C sub_407B5C sub_407840 sub_407840 sub_404F0C sub_404F0C sub_4041EC sub_4041EC
-main main sub_408094 sub_408094 sub_407B5C sub_407B5C sub_407840 sub_407840 sub_404308 sub_404308 sub_4041EC sub_4041EC
-main main sub_408094 sub_408094 sub_407B5C sub_407B5C sub_40E6C4 sub_40E6C4 sub_40E190 sub_40E190
-main main sub_408094 sub_408094 sub_4053CC sub_4053CC sub_40F154 sub_40F154 sub_40D684 sub_40D684
-main main sub_4076CC sub_4076CC sub_40EAD0 sub_40EAD0 sub_40D684 sub_40D684
-sub_4071C8 sub_406728 sub_406728 sub_405760 sub_405760 sub_405130 sub_405130 sub_404F0C sub_404F0C sub_4041EC sub_4041EC

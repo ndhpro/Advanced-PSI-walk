@@ -1,2 +1,0 @@
-main setuphost usage wakeme goodconnect
-main usage wakeme goodconnect

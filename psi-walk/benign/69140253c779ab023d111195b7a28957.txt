@@ -1,4 +1,0 @@
-accept_msg accept_msg print_route print_route rtnl_rtscope_n2a rtnl_rtscope_n2a sub_29F70 sub_29F70 sub_29D94 sub_29D94
-accept_msg accept_msg print_route print_route rtnl_rtrealm_n2a rtnl_rtrealm_n2a sub_29FF0 sub_29FF0 sub_29D94 sub_29D94
-accept_msg accept_msg print_linkinfo print_linkinfo sub_C5E8 sub_C5E8 get_link_kind get_link_kind
-do_iproute do_iproute iproute_modify iproute_modify get_addr get_addr get_addr_1 get_addr_1

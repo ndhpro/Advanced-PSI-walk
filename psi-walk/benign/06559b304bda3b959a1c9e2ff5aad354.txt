@@ -1,5 +1,0 @@
-main main auth_check_options auth_check_options sub_41AF88 sub_41AF88 sub_41A9A4 sub_41A9A4 getword getword option_error option_error vslprintf vslprintf
-main main auth_check_options auth_check_options sub_41AF88 sub_41AF88 sub_41A9A4 sub_41A9A4 getword getword die die remove_pidfiles remove_pidfiles
-main main auth_check_options auth_check_options sub_41AF88 sub_41AF88 sub_41A9A4 sub_41A9A4 sub_41A3D4 sub_41A3D4
-main main auth_check_options auth_check_options sub_41B2C4 sub_41B2C4 sub_41A9A4 sub_41A9A4 getword getword option_error option_error vslprintf vslprintf
-main main options_from_file options_from_file sub_4202B0 sub_4202B0 option_error option_error vslprintf vslprintf

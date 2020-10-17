@@ -1,4 +1,0 @@
-main main parse_args parse_args option_handler option_handler get_duration get_duration show_message show_message
-main main parse_args parse_args option_handler option_handler parse_service parse_service show_message show_message
-main main parse_args parse_args parse_conf_file parse_conf_file show_message show_message
-main main asus_reg_domain asus_reg_domain read_input read_input show_message show_message

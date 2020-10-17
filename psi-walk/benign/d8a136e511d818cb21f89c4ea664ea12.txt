@@ -1,6 +1,0 @@
-start sub_81A4 sub_81A4 sub_B27C sub_B27C sub_3BB9C sub_3BB9C sub_38A10 sub_38A10 sub_375FC sub_375FC sub_40A00 sub_40A00
-start sub_81A4 sub_81A4 sub_B27C sub_B27C sub_3BB9C sub_3BB9C sub_38A10 sub_38A10 sub_375FC sub_375FC sub_3DB04 sub_3DB04
-start sub_81A4 sub_81A4 sub_B27C sub_B27C sub_3BB9C sub_3BB9C sub_38A10 sub_38A10 sub_38334 sub_38334 sub_3DB04 sub_3DB04
-start sub_81A4 sub_81A4 sub_B27C sub_B27C sub_3BB9C sub_3BB9C sub_39AE4 sub_39AE4 sub_371E0 sub_371E0
-start sub_81A4 sub_81A4 sub_B27C sub_B27C sub_E2B8 sub_E2B8 sub_CEC8 sub_CEC8
-start sub_81A4 sub_81A4 sub_491B8 sub_491B8 sub_4A010 sub_4A010 sub_49494 sub_49494

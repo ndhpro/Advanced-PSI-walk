@@ -1,2 +1,0 @@
-main main Apd_init_sockets Apd_init_sockets
-sub_401F84 sub_401F84 hostapd_allowed_address hostapd_allowed_address Radius_client_send Radius_client_send

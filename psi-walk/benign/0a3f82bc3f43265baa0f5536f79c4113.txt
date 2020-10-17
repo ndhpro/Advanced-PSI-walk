@@ -1,3 +1,0 @@
-sub_14CF8 sub_14CF8 sub_4996C sub_4996C sub_498B8 sub_498B8 sub_46408 sub_46408
-sub_14CF8 sub_14CF8 sub_4996C sub_4996C sub_49810 sub_49810 sub_45F4C sub_45F4C
-sub_14CF8 sub_14CF8 sub_11300 sub_11300 sub_10FDC sub_10FDC

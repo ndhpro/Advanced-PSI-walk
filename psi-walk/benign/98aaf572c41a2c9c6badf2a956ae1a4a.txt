@@ -1,3 +1,0 @@
-sub_1F4DC sub_1FC08 sub_1FC08 sub_202DC sub_202DC sub_205B8 sub_205B8 sub_20570
-sub_1F4DC sub_1FC08 sub_1FC08 sub_205B8 sub_205B8 sub_20570
-sub_1FA88 sub_1FC08 sub_1FC08 sub_202DC sub_202DC sub_205B8 sub_205B8 sub_20570

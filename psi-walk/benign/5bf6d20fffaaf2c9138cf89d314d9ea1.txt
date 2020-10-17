@@ -1,3 +1,0 @@
-main if_wan_phyconnected chk_proto check_ppp_exist
-main if_wan_phyconnected detect_internet found_default_route
-main build_socket passivesock

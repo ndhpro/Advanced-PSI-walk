@@ -1,1 +1,0 @@
-main repeater_wps_client repeater_wps_client sub_400B40 sub_400B40 getWscStatus getWscStatus

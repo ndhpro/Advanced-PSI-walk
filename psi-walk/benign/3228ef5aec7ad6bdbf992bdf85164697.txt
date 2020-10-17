@@ -1,3 +1,0 @@
-iptables_main do_command sub_4075A0 xtables_find_match xtables_malloc
-iptables_main do_command sub_4075A0 xtables_ipmask_to_numeric xtables_ipaddr_to_numeric
-iptables_main do_command print_rule xtables_find_match xtables_malloc

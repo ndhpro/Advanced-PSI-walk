@@ -1,2 +1,0 @@
-main main run_script run_script sub_4037F0 sub_4037F0
-main main send_release send_release sub_402E88 sub_402E88 add_option_string add_option_string

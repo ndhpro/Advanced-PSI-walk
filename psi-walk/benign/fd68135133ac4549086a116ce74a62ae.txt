@@ -1,2 +1,0 @@
-main dumparptable got_wan_hwaddr
-main got_wan_ip

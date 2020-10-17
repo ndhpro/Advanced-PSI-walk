@@ -1,2 +1,0 @@
-main main nvram_getall nvram_getall nvram_init nvram_init
-nvram_set sub_401AB8 sub_401AB8 nvram_init nvram_init

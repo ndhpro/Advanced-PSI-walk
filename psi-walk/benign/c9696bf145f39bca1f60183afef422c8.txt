@@ -1,2 +1,0 @@
-sub_402E10 sub_402E10 bftpd_login bftpd_login print_file print_file control_printf control_printf bftpd_statuslog bftpd_statuslog
-sub_402E10 sub_402E10 bftpd_login bftpd_login control_printf control_printf bftpd_statuslog bftpd_statuslog

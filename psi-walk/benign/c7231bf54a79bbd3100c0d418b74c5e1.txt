@@ -1,2 +1,0 @@
-main main sub_404ECC sub_404ECC sub_403B38 sub_403B38
-main main sub_404ECC sub_404ECC _ZN6vectorI6stringED2Ev

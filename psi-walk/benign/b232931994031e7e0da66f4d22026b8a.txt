@@ -1,2 +1,0 @@
-sub_401120 sub_401120 sub_400F34 sub_400F34
-sub_401BEC sub_401BEC sub_401910 sub_401910 sub_400F34 sub_400F34

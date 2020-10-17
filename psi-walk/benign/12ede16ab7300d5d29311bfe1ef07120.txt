@@ -1,3 +1,0 @@
-sub_119A0 sub_119A0 sub_132EC sub_132EC sub_CE58 sub_CE58 sub_C6F8 sub_C6F8
-sub_119A0 sub_119A0 sub_132EC sub_132EC sub_10968 sub_10968 sub_F7DC sub_F7DC
-sub_119A0 sub_119A0 sub_A534 sub_A534

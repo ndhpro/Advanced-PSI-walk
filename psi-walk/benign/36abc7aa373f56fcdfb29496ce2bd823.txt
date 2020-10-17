@@ -1,4 +1,0 @@
-sub_22B20 sub_206C4 sub_206C4 sub_1FE74 sub_1FE74 sub_23ABC sub_23ABC sub_24EF8 sub_24EF8
-sub_22B20 sub_206C4 sub_206C4 sub_1FE74 sub_1FE74 sub_C838 sub_C838 sub_14340 sub_14340
-sub_22B20 sub_206C4 sub_206C4 sub_23E40 sub_23E40 sub_27334 sub_27334
-sub_1FD04 sub_1E244 sub_1E244 sub_242F4 sub_242F4 sub_27334 sub_27334

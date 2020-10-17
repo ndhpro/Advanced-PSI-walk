@@ -1,4 +1,0 @@
-sub_463EB0 sub_463EB0 sub_456340 sub_456340 sub_453CEC sub_453CEC sub_45368C sub_45368C sub_452568 sub_452568
-sub_463EB0 sub_463EB0 sub_456340 sub_456340 sub_453CEC sub_453CEC sub_452CE0 sub_452CE0 sub_452AC0 sub_452AC0
-sub_463EB0 sub_463EB0 sub_456340 sub_456340 sub_40901C sub_40901C
-sub_463EB0 sub_463EB0 sub_4547E0 sub_4547E0 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 get_terminal_width_height get_terminal_width_height

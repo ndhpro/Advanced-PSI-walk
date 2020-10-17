@@ -1,4 +1,0 @@
-sub_430E8 sub_3B500 sub_3B500 sub_48A20 sub_48A20 sub_47814 sub_47814 sub_46570 sub_46570
-sub_430E8 sub_3B500 sub_3B500 sub_48A20 sub_48A20 sub_4677C sub_4677C sub_46570 sub_46570
-sub_430E8 sub_419B4 sub_419B4 sub_48A20 sub_48A20 sub_47814 sub_47814 sub_46570 sub_46570
-start sub_81A4 sub_81A4 sub_B948 sub_B948 sub_B14C sub_B14C

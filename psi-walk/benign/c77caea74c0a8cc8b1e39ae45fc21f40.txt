@@ -1,2 +1,0 @@
-enc_main enc_main load_config load_config
-sub_41866C sub_41866C sub_4173D8 sub_4173D8 parse_name parse_name

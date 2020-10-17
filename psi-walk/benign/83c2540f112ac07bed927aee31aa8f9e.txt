@@ -1,2 +1,0 @@
-main main mtd_write mtd_write mtd_open mtd_open
-main main mtd_erase mtd_erase mtd_open mtd_open

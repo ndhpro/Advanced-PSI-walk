@@ -1,3 +1,0 @@
-sub_405FD0 sub_405FD0 sub_40307C sub_40307C sub_403008 sub_403008
-sub_405FD0 sub_405FD0 sub_402E3C sub_402E3C _ftext _ftext
-sub_407050 sub_404370 sub_404370 _ZN6vectorIjEC2Ej

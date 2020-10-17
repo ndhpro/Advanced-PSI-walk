@@ -1,4 +1,0 @@
-attack_method_http attack_method_http sleep sigaction memcpy
-attack_method_http attack_method_http sleep nanosleep
-attack_method_http attack_method_http fcntl
-main main fork

@@ -1,3 +1,0 @@
-main main send_login_page send_login_page sub_403E38 sub_403E38 sub_403C58 sub_403C58
-main main sub_403E38 sub_403E38 sub_403C58 sub_403C58
-sub_41E158 sub_41E158 ej_wl_status ej_wl_status dump_rateset dump_rateset

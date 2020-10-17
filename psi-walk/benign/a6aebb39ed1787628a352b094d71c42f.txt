@@ -1,4 +1,0 @@
-main main sub_403E8C sub_403E8C gen_ralink_config gen_ralink_config mac_conv mac_conv
-main main sub_403E8C sub_403E8C gen_ralink_config gen_ralink_config checkReg2G checkReg2G
-main main sub_403E8C sub_403E8C handle_notifications handle_notifications do_timer do_timer
-main main gen_ralink_config gen_ralink_config mac_conv mac_conv

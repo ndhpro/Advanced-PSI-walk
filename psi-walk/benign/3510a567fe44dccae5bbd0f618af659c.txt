@@ -1,4 +1,0 @@
-main main sub_40C83C sub_40C83C sub_406C24 sub_406C24 sub_403AA0 sub_403AA0
-main main sub_40C83C sub_40C83C sub_406C24 sub_406C24 sub_402950 sub_402950
-main main sub_40C83C sub_40C83C sub_40B7DC sub_40B7DC sub_402950 sub_402950
-main main sub_40E830 sub_40E830 sub_40C83C sub_40C83C sub_406C24 sub_406C24 sub_403AA0 sub_403AA0

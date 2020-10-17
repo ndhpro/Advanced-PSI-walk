@@ -1,4 +1,0 @@
-sub_12F68 sub_12F68 sub_CE7C sub_CE7C sub_19D78 sub_19D78 sub_12174 sub_12174 sub_16C18 sub_16C18 sub_CB80 sub_CB80 sub_CA78 sub_CA78 sub_C708 sub_C708
-sub_12F68 sub_12F68 sub_CE7C sub_CE7C sub_19D78 sub_19D78 sub_12174 sub_12174 sub_10300 sub_10300 sub_CB80 sub_CB80 sub_CA78 sub_CA78 sub_C708 sub_C708
-sub_12F68 sub_12F68 sub_CE7C sub_CE7C sub_19D78 sub_19D78 sub_10BEC sub_10BEC sub_C010 sub_C010 sub_BECC sub_BECC
-sub_12F68 sub_12F68 sub_CE7C sub_CE7C sub_CB80 sub_CB80 sub_CA78 sub_CA78 sub_C708 sub_C708

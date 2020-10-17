@@ -1,3 +1,0 @@
-main main script_call script_call sub_40834C sub_40834C
-main main dhcpv6_request dhcpv6_request
-odhcp6c_signal_process script_call script_call sub_40834C sub_40834C

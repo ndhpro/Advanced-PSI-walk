@@ -1,2 +1,0 @@
-_ftext _ftext sub_401534 sub_401534
-_ftext _ftext _ZN6vectorI6stringED2Ev

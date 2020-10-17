@@ -1,3 +1,0 @@
-sub_9D00 sub_9D00 sub_9570 sub_9570 sub_9220 sub_9220 sub_8C14 sub_8C14 sub_8A48 sub_8A48
-sub_9D00 sub_9D00 sub_9570 sub_9570 sub_9220 sub_9220 sub_8B78 sub_8B78 sub_8A48 sub_8A48
-sub_9D00 sub_9D00 sub_9570 sub_9570 sub_8F1C sub_8F1C

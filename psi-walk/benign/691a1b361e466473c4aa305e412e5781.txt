@@ -1,3 +1,0 @@
-sub_253C0 sub_360FC sub_360FC sub_377F8 sub_377F8 sub_318B8 sub_318B8 sub_31AEC sub_31AEC sub_3198C sub_3198C
-sub_253C0 sub_360FC sub_360FC sub_3AF58 sub_3AF58 sub_318B8 sub_318B8 sub_31AEC sub_31AEC sub_3198C sub_3198C
-sub_414F0 sub_360FC sub_360FC sub_377F8 sub_377F8 sub_318B8 sub_318B8 sub_31AEC sub_31AEC sub_3198C sub_3198C

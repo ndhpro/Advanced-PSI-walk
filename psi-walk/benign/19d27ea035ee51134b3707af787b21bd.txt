@@ -1,3 +1,0 @@
-asus_tty asus_tty init_3g_param init_3g_param write_3g_conf write_3g_conf
-asus_tty asus_tty stop_pppd stop_pppd kill_pidfile_tk kill_pidfile_tk
-asus_sg asus_sg init_3g_param init_3g_param write_3g_conf write_3g_conf

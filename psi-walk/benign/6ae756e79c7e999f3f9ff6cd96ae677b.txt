@@ -1,2 +1,0 @@
-main main sub_400C64 sub_400C64 sub_400DB4 sub_400DB4
-main main sub_400DB4 sub_400DB4

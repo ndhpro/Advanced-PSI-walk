@@ -1,5 +1,0 @@
-main main auth_check_options auth_check_options sub_41C888 sub_41C888 sub_41C0D4 sub_41C0D4 getword getword die die print_link_stats print_link_stats
-main main auth_check_options auth_check_options sub_41C888 sub_41C888 sub_41C0D4 sub_41C0D4 getword getword option_error option_error vslprintf vslprintf
-main main auth_check_options auth_check_options sub_41C888 sub_41C888 sub_41C0D4 sub_41C0D4 sub_41BA28 sub_41BA28
-main main auth_check_options auth_check_options sub_41CA44 sub_41CA44 sub_41C0D4 sub_41C0D4 getword getword die die print_link_stats print_link_stats
-main main options_from_user options_from_user options_from_file options_from_file sub_421C70 sub_421C70 option_error option_error vslprintf vslprintf

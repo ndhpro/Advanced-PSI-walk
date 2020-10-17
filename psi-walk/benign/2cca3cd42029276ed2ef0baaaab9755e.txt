@@ -1,6 +1,0 @@
-sub_E08C sub_E08C sub_DD70 sub_DD70 sub_DC10 sub_DC10 sub_AF60 sub_AF60 sub_AAE8 sub_AAE8 sub_A90C sub_A90C sub_A6F0 sub_A6F0
-sub_E08C sub_E08C sub_DD70 sub_DD70 sub_DC10 sub_DC10 sub_AF60 sub_AF60 sub_AAE8 sub_AAE8 sub_AA48 sub_AA48
-sub_E08C sub_E08C sub_DD70 sub_DD70 sub_DC10 sub_DC10 sub_AF60 sub_AF60 sub_A26C sub_A26C sub_A1B8 sub_A1B8
-sub_E08C sub_E08C sub_DD70 sub_DD70 sub_DC10 sub_DC10 sub_964C sub_964C sub_9300 sub_9300
-sub_E08C sub_E08C sub_DD70 sub_DD70 sub_A90C sub_A90C sub_A6F0 sub_A6F0
-sub_E08C sub_E08C sub_DC10 sub_DC10 sub_AF60 sub_AF60 sub_AAE8 sub_AAE8 sub_A90C sub_A90C sub_A6F0 sub_A6F0

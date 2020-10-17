@@ -1,2 +1,0 @@
-br_cmd_showstp br_dump_info br_dump_port_info br_dump_bridge_id
-br_cmd_showstp br_dump_info br_dump_bridge_id

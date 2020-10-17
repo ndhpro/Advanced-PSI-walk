@@ -1,3 +1,0 @@
-asus_usb_interface asus_usb_interface init_3g_param init_3g_param sub_48B1D8 sub_48B1D8
-asus_usb_interface asus_usb_interface set_usb_common_nvram set_usb_common_nvram check_hotplug_action check_hotplug_action
-asus_sg asus_sg init_3g_param init_3g_param sub_48B1D8 sub_48B1D8

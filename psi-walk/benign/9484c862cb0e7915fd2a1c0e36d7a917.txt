@@ -1,3 +1,0 @@
-main main sub_402D7E sub_402D7E sub_401703 sub_401703 sub_402362 sub_402362 sub_40203C sub_40203C sub_401FE3 sub_401FE3
-main main sub_402D7E sub_402D7E sub_401703 sub_401703 sub_402362 sub_402362 sub_402348 sub_402348 sub_402252 sub_402252
-main main sub_402D7E sub_402D7E sub_401703 sub_401703 sub_4015C2 sub_4015C2

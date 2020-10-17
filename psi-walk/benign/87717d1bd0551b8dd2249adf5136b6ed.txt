@@ -1,2 +1,0 @@
-sub_400D2C sub_400D2C sub_408614 sub_408614
-sub_40568C sub_404760 sub_404760 sub_403F4C sub_403F4C

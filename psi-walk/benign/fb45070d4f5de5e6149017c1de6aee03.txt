@@ -1,3 +1,0 @@
-main main start_ssl start_ssl erase_cert erase_cert
-main main sub_403FE0 sub_403FE0 sub_403E6C sub_403E6C
-ej_lan_ipv6_network ej_lan_ipv6_network killall killall psname psname

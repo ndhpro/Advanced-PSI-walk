@@ -1,7 +1,0 @@
-main rip_input addrouteforif rtchange traceaction dumpif dumptrace dumppacket traceoff
-main rip_input addrouteforif rtchange traceaction traceoff
-main rip_input addrouteforif rtchange rtioctl check_isredundant
-main rip_input addrouteforif rtdelete traceaction dumpif dumptrace dumppacket traceoff
-main rip_input rtadd traceaction dumpif dumptrace dumppacket traceoff
-main gwkludge addrouteforif rtchange traceaction dumpif dumptrace dumppacket traceoff
-timer read_cfg cfg_proc ifinit addrouteforif rtchange traceaction dumpif dumptrace dumppacket traceoff

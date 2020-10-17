@@ -1,5 +1,0 @@
-sub_DD14 sub_DD14 sub_12350 sub_12350 sub_10500 sub_10500 sub_101DC sub_101DC sub_1B9A8 sub_1B9A8 sub_2CC00 sub_2CC00
-sub_DD14 sub_DD14 sub_12350 sub_12350 sub_10500 sub_10500 sub_101DC sub_101DC sub_F6F0 sub_F6F0 sub_2CC00 sub_2CC00
-sub_DD14 sub_DD14 sub_12350 sub_12350 sub_10500 sub_10500 sub_10194 sub_10194 sub_FD48 sub_FD48 sub_2CC00 sub_2CC00
-sub_DD14 sub_DD14 sub_12350 sub_12350 sub_EC68 sub_EC68 sub_2CFDC sub_2CFDC sub_2CC00 sub_2CC00
-sub_DD14 sub_DD14 sub_C518 sub_C518 sub_2CD50 sub_2CD50 sub_2CC00 sub_2CC00

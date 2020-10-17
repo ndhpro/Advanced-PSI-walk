@@ -1,3 +1,0 @@
-sub_40EF30 sub_40EF30 sub_40D490 sub_40D490 sub_40A6C4 sub_40A6C4 sub_40BE78 sub_40BE78
-sub_40EF30 sub_40EF30 sub_40D490 sub_40D490 sub_40BE78 sub_40BE78
-_ftext _ftext sub_40F374 sub_40F374 sub_406510 sub_406510 sub_40E8B8 sub_40E8B8

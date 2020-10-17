@@ -1,4 +1,0 @@
-sub_C590 sub_9B5C sub_9B5C sub_CAE8 sub_CAE8 sub_C4F4 sub_C4F4
-sub_C590 sub_9B5C sub_9B5C sub_9880 sub_9880 sub_C4F4 sub_C4F4
-sub_C590 sub_A084 sub_A084 sub_9880 sub_9880 sub_C4F4 sub_C4F4
-sub_B08C sub_A1B0 sub_A1B0 sub_CAE8 sub_CAE8 sub_C4F4 sub_C4F4

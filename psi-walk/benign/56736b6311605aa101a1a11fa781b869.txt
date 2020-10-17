@@ -1,4 +1,0 @@
-sub_10D38 sub_10D38 sub_108DC sub_108DC sub_F548 sub_F548 sub_F310 sub_F310
-sub_10D38 sub_10D38 sub_108DC sub_108DC sub_F548 sub_F548 sub_A8D0 sub_A8D0
-sub_10D38 sub_10D38 sub_108DC sub_108DC sub_9890 sub_9890
-sub_10D38 sub_10D38 sub_1425C sub_1425C sub_A340 sub_A340

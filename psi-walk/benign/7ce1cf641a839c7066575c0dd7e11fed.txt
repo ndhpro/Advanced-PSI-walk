@@ -1,3 +1,0 @@
-main main sub_403118 sub_403118 sub_4016C0 sub_4016C0 ReadParseParam ReadParseParam
-main main sub_403118 sub_403118 printVersion printVersion
-main main checkSuccess checkSuccess search_devices search_devices get_current_configuration get_current_configuration

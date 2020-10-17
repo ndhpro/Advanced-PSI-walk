@@ -1,3 +1,0 @@
-main main send_login_page send_login_page sub_403E7C sub_403E7C sub_403C64 sub_403C64
-main main sub_403E7C sub_403E7C sub_403C64 sub_403C64
-ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status wf_chspec_ntoa wf_chspec_ntoa

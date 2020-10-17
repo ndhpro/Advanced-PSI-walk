@@ -1,1 +1,0 @@
-_ftext _ftext sub_400C00 sub_400C00

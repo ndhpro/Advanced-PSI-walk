@@ -1,2 +1,0 @@
-main main sub_401178 sub_401178
-sub_402608 sub_402608 parse_nd_opts parse_nd_opts

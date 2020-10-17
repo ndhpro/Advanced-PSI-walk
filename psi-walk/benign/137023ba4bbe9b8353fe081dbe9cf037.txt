@@ -1,4 +1,0 @@
-sub_BC90 sub_9884 sub_9884 sub_C1E8 sub_C1E8 sub_BBF4 sub_BBF4
-sub_BC90 sub_9884 sub_9884 sub_95F0 sub_95F0 sub_BBF4 sub_BBF4
-sub_BC90 sub_9CF8 sub_9CF8 sub_95F0 sub_95F0 sub_BBF4 sub_BBF4
-sub_ABE8 sub_9DD8 sub_9DD8 sub_C1E8 sub_C1E8 sub_BBF4 sub_BBF4

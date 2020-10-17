@@ -1,5 +1,0 @@
-do_qdisc tc_qdisc_modify parse_estimator incomplete_command missarg invarg duparg duparg2
-do_qdisc tc_qdisc_modify parse_estimator get_time
-do_qdisc tc_qdisc_modify incomplete_command missarg invarg duparg duparg2
-do_qdisc tc_qdisc_list incomplete_command missarg invarg duparg duparg2
-do_class tc_class_modify incomplete_command missarg invarg duparg duparg2

@@ -1,5 +1,0 @@
-sub_292D0 sub_292D0 sub_28600 sub_28600 sub_27CB4 sub_27CB4 sub_BD58 sub_BD58 sub_21D24 sub_21D24
-sub_292D0 sub_292D0 sub_28600 sub_28600 sub_27CB4 sub_27CB4 sub_27C44 sub_27C44 sub_21D24 sub_21D24
-sub_292D0 sub_292D0 sub_28600 sub_28600 sub_2849C sub_2849C sub_281A4 sub_281A4 sub_21D24 sub_21D24
-sub_292D0 sub_292D0 sub_27CB4 sub_27CB4 sub_BD58 sub_BD58 sub_21D24 sub_21D24
-sub_D3F8 sub_D3F8 sub_10914 sub_10914 sub_100A8 sub_100A8 sub_FF34 sub_FF34

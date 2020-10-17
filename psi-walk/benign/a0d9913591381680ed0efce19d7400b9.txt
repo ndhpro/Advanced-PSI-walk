@@ -1,2 +1,0 @@
-main main sub_407A40 sub_407A40 _ZN6vectorI6stringED2Ev
-main main sub_40759C sub_40759C

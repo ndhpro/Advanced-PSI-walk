@@ -1,3 +1,0 @@
-main main upnp_mainloop upnp_mainloop upnp_init upnp_init upnp_device_renew_uuid upnp_device_renew_uuid upnp_gen_uuid upnp_gen_uuid
-main main upnp_mainloop upnp_mainloop upnp_init upnp_init ssdp_init ssdp_init upnp_open_udp_socket upnp_open_udp_socket
-main main upnp_mainloop upnp_mainloop upnp_shutdown upnp_shutdown upnp_device_detach upnp_device_detach

@@ -1,3 +1,0 @@
-main main start_ssl start_ssl erase_cert erase_cert
-main main sub_404320 sub_404320 sub_4041AC sub_4041AC
-ej_wps_info_2g wl_wps_info wl_wps_info getAPPIN getAPPIN

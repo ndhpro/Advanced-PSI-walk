@@ -1,2 +1,0 @@
-detectWAN_arp is_phyconnected
-get_related_nvram getWanInfo getDefaultGW

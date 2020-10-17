@@ -1,4 +1,0 @@
-clnt_vc_call clnt_vc_call xdr_opaque_auth xdr_opaque_auth xdr_bytes xdr_bytes calloc calloc malloc_init_hard malloc_init_hard arenas_extend arenas_extend getprogname getprogname
-clnt_vc_call clnt_vc_call xdr_opaque_auth xdr_opaque_auth xdr_bytes xdr_bytes calloc calloc malloc_init_hard malloc_init_hard _spinlock _spinlock _thread_exit _thread_exit
-clnt_vc_call clnt_vc_call xdr_opaque_auth xdr_opaque_auth xdr_bytes xdr_bytes calloc calloc pthread_mutex_lock pthread_mutex_lock mutex_lock_sleep mutex_lock_sleep _thread_exit _thread_exit
-clnt_vc_call clnt_vc_call xdr_opaque_auth xdr_opaque_auth __assert __assert

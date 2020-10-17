@@ -1,4 +1,0 @@
-sub_990C sub_990C sub_F284 sub_F284 sub_E990 sub_E990 sub_E8CC sub_E8CC
-sub_990C sub_990C sub_F284 sub_F284 sub_E700 sub_E700
-sub_990C sub_990C sub_934C sub_934C sub_F284 sub_F284 sub_E990 sub_E990 sub_E8CC sub_E8CC
-sub_CAFC sub_CAFC sub_BF0C sub_BF0C sub_934C sub_934C sub_F284 sub_F284 sub_E990 sub_E990 sub_E8CC sub_E8CC

@@ -1,4 +1,0 @@
-sub_18E8C sub_18E8C sub_17070 sub_17070 sub_E280 sub_E280 sub_C614 sub_C614 sub_1DEFC sub_1DEFC
-sub_18E8C sub_18E8C sub_17070 sub_17070 sub_E280 sub_E280 sub_B330 sub_B330 sub_1DEFC sub_1DEFC
-sub_18E8C sub_18E8C sub_17070 sub_17070 sub_A89C sub_A89C sub_A320 sub_A320 sub_A134 sub_A134 sub_1DEFC sub_1DEFC
-sub_18E8C sub_18E8C sub_CC60 sub_CC60 sub_A670 sub_A670 sub_A320 sub_A320 sub_A134 sub_A134 sub_1DEFC sub_1DEFC

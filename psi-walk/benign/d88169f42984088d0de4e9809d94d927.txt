@@ -1,4 +1,0 @@
-main main sdp_process_vpd_page sdp_process_vpd_page sub_40F504 sub_40F504 sub_40E9F4 sub_40E9F4 dStrHex dStrHex
-main main sdp_process_vpd_page sdp_process_vpd_page sub_40F504 sub_40F504 dStrHex dStrHex
-main main sdp_process_vpd_page sdp_process_vpd_page sg_ll_inquiry sg_ll_inquiry sg_cmds_process_resp sg_cmds_process_resp sg_get_sense_str sg_get_sense_str sub_417A98 sub_417A98
-main main sub_402C84 sub_402C84 sg_simple_inquiry sg_simple_inquiry sg_cmds_process_resp sg_cmds_process_resp sg_get_sense_str sg_get_sense_str sub_417A98 sub_417A98

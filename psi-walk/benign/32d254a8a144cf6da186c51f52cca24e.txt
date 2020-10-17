@@ -1,2 +1,0 @@
-ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status print_rate_buf print_rate_buf
-ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status wl_format_ssid wl_format_ssid

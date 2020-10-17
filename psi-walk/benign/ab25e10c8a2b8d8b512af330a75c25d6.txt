@@ -1,2 +1,0 @@
-main eapd_wksp_auto_config eapd_wksp_auto_config nas_app_enabled nas_app_enabled
-main eapd_wksp_main_loop eapd_wksp_main_loop sub_401610 sub_401610

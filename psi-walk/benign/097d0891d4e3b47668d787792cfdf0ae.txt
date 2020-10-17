@@ -1,2 +1,0 @@
-main main FindAllApp FindAllApp SendSMBReq SendSMBReq
-main main create_socket create_socket

@@ -1,2 +1,0 @@
-main main sub_400E50 sub_400E50 sub_400D6C sub_400D6C
-main main sub_4010C8 sub_4010C8 sub_400D6C sub_400D6C

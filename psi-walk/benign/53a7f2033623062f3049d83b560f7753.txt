@@ -1,2 +1,0 @@
-main main filesystem_init filesystem_init getMAC getMAC
-main main handleParameters handleParameters daemonise daemonise gupnp_init gupnp_init

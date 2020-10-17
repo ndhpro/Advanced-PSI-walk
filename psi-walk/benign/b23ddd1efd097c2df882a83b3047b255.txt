@@ -1,3 +1,0 @@
-sub_1038C sub_1038C sub_13B50 sub_13B50 sub_127F4 sub_127F4 sub_122C4 sub_122C4
-sub_1038C sub_1038C sub_13B50 sub_13B50 sub_12B1C sub_12B1C sub_122C4 sub_122C4
-sub_1038C sub_1038C sub_D2B8 sub_D2B8 sub_EAF0 sub_EAF0

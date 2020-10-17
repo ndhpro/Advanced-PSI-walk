@@ -1,4 +1,0 @@
-main main sub_406930 sub_406930 xmalloc xmalloc die die warn warn
-main main sub_406930 sub_406930 warn warn
-main main osl_write_pidfile osl_write_pidfile die die warn warn
-packetio_recv_handler packetio_recv_handler sub_40A568 sub_40A568 tx_write tx_write die die warn warn

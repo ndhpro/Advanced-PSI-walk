@@ -1,3 +1,0 @@
-sub_40D57C sub_40D57C sub_4096A4 sub_4096A4 sub_4076DC sub_4076DC
-sub_40D57C sub_40D57C sub_4077D4 sub_4077D4 sub_407058 sub_407058
-_ftext _ftext sub_40B0D4 sub_40B0D4 sub_40C320 sub_40C320

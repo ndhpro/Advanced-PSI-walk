@@ -1,4 +1,0 @@
-iptables_xml_main iptables_xml_main sub_404C54 sub_404C54 sub_4049B4 sub_4049B4 sub_404858 sub_404858
-iptables_xml_main iptables_xml_main sub_404C54 sub_404C54 sub_404658 sub_404658
-iptables_xml_main iptables_xml_main sub_404B54 sub_404B54 sub_404A10 sub_404A10 sub_4049B4 sub_4049B4 sub_404858 sub_404858
-iptables_main iptables_main do_command do_command print_rule print_rule sub_4077F8 sub_4077F8

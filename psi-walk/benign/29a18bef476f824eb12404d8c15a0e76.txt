@@ -1,4 +1,0 @@
-sub_9978 sub_9978 sub_F3C4 sub_F3C4 sub_EA60 sub_EA60 sub_E99C sub_E99C
-sub_9978 sub_9978 sub_F3C4 sub_F3C4 sub_E7D0 sub_E7D0
-sub_9978 sub_9978 sub_937C sub_937C sub_F3C4 sub_F3C4 sub_EA60 sub_EA60 sub_E99C sub_E99C
-sub_CBCC sub_CBCC sub_BFDC sub_BFDC sub_937C sub_937C sub_F3C4 sub_F3C4 sub_EA60 sub_EA60 sub_E99C sub_E99C

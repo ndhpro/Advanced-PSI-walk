@@ -1,3 +1,0 @@
-main main udhcpc_main udhcpc_main run_script run_script sub_4072F0 sub_4072F0
-main main udhcpc_main udhcpc_main send_selecting send_selecting sub_406AA4 sub_406AA4 add_simple_option add_simple_option add_option_string add_option_string
-main main udhcpd_main udhcpd_main sendOffer sendOffer add_simple_option add_simple_option add_option_string add_option_string

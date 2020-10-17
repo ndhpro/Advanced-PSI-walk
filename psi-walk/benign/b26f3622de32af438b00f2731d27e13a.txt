@@ -1,5 +1,0 @@
-sub_407814 sub_407814 sub_40F64C sub_40F64C sub_40E0C8 sub_40E0C8 sub_406D7C sub_406D7C sub_405C3C sub_405C3C warn warn
-sub_407814 sub_407814 sub_40F64C sub_40F64C sub_40E0C8 sub_40E0C8 warn warn
-sub_407814 sub_407814 sub_40F64C sub_40F64C sub_40E52C sub_40E52C sub_406D7C sub_406D7C sub_405C3C sub_405C3C warn warn
-sub_407814 sub_407814 sub_406564 sub_406564 warn warn
-sub_4049D8 sub_4049D8 sub_404594 sub_404594 sub_405DD0 sub_405DD0 sub_405C3C sub_405C3C warn warn

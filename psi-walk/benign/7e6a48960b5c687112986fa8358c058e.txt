@@ -1,2 +1,0 @@
-sub_402AFC sub_402AFC sub_403FD0 sub_403FD0
-sub_4031B8 sub_4031B8 _ZN6vectorIjEC2Ej

@@ -1,2 +1,0 @@
-main main nvram_save_new nvram_save_new get_rand get_rand
-main main nvram_restore_new nvram_restore_new issyspara issyspara

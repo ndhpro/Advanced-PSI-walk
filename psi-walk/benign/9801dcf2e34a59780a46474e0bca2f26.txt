@@ -1,4 +1,0 @@
-sub_44193C sub_44193C sub_43FECC sub_43FECC ppr_get_ht_mcs ppr_get_ht_mcs sub_44A15C sub_44A15C
-sub_44193C sub_44193C sub_43FECC sub_43FECC ppr_get_vht_mcs ppr_get_vht_mcs sub_44A15C sub_44A15C
-sub_44193C sub_44193C get_reg_rate_index_from_ratespec get_reg_rate_index_from_ratespec sub_449794 sub_449794 sub_449760 sub_449760
-dump_bss_info dump_bss_info wf_chspec_ntoa wf_chspec_ntoa wf_chspec_ctlchan wf_chspec_ctlchan

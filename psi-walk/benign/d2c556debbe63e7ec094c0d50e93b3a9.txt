@@ -1,5 +1,0 @@
-do_xfrm_state do_xfrm_state sub_41836C sub_41836C xfrm_id_parse xfrm_id_parse get_prefix get_prefix get_prefix_1 get_prefix_1 get_addr_1 get_addr_1
-do_xfrm_state do_xfrm_state sub_41836C sub_41836C xfrm_id_parse xfrm_id_parse invarg invarg missarg missarg
-do_xfrm_state do_xfrm_state sub_41836C sub_41836C xfrm_encap_type_parse xfrm_encap_type_parse invarg invarg missarg missarg
-do_xfrm_state do_xfrm_state xfrm_state_print xfrm_state_print xfrm_state_info_print xfrm_state_info_print xfrm_lifetime_print xfrm_lifetime_print sub_4161AC sub_4161AC
-iproute_get iproute_get sub_405EB8 sub_405EB8 sub_405B50 sub_405B50

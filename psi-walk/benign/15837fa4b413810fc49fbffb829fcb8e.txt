@@ -1,2 +1,0 @@
-sub_805016A sub_805016A _ZN6vectorI6stringED2Ev
-sub_804C6EB sub_804C6EB _ZN6vectorIjEC2Ej

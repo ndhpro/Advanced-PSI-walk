@@ -1,2 +1,0 @@
-command_pass command_pass bftpd_login bftpd_login print_file print_file control_printf control_printf bftpd_statuslog bftpd_statuslog
-command_pass command_pass bftpd_login bftpd_login control_printf control_printf bftpd_statuslog bftpd_statuslog

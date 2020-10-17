@@ -1,3 +1,0 @@
-sub_C510 sub_C510 sub_B5EC sub_B5EC sub_10630 sub_10630 sub_104F0 sub_104F0
-sub_C510 sub_C510 sub_B5EC sub_B5EC sub_108A4 sub_108A4
-sub_C510 sub_C510 sub_F300 sub_F300 sub_EAC8 sub_EAC8 sub_E2F4 sub_E2F4

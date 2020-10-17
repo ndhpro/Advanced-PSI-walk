@@ -1,5 +1,0 @@
-sub_9E90 sub_9E90 sub_B7D0 sub_B7D0 sub_B714 sub_B714 sub_D198 sub_D198 sub_D110 sub_D110 sub_B3BC sub_B3BC
-sub_9E90 sub_9E90 sub_B7D0 sub_B7D0 sub_B714 sub_B714 sub_D198 sub_D198 sub_D110 sub_D110 sub_B630 sub_B630
-sub_9E90 sub_9E90 sub_B7D0 sub_B7D0 sub_B714 sub_B714 sub_B3BC sub_B3BC
-sub_9E90 sub_9E90 sub_B7D0 sub_B7D0 sub_B688 sub_B688 sub_B610 sub_B610
-sub_9E90 sub_9E90 sub_9CFC sub_9CFC sub_9C0C sub_9C0C sub_E070 sub_E070 sub_11A08 sub_11A08 iptc_init iptc_init sub_12690 sub_12690

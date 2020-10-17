@@ -1,3 +1,0 @@
-iptables_restore_main iptables_restore_main do_command4 do_command4 sub_405DA8 sub_405DA8 sub_4058C0 sub_4058C0
-iptables_restore_main iptables_restore_main do_command4 do_command4 print_rule4 print_rule4 sub_4066E8 sub_4066E8
-ip6tables_restore_main ip6tables_restore_main do_command6 do_command6 sub_40B130 sub_40B130 sub_40AC48 sub_40AC48

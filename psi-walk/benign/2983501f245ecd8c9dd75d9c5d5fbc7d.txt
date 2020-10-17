@@ -1,4 +1,0 @@
-iproute_get iproute_get print_route print_route rtnl_dsfield_n2a rtnl_dsfield_n2a sub_420260 sub_420260 sub_420050 sub_420050
-iproute_get iproute_get print_route print_route rt_addr_n2a rt_addr_n2a
-iproute_get iproute_get iproute_modify iproute_modify parse_nexthops parse_nexthops parse_one_nh parse_one_nh rta_addattr32 rta_addattr32
-do_xfrm_state do_xfrm_state sub_4187AC sub_4187AC xfrm_id_parse xfrm_id_parse get_prefix get_prefix get_prefix_1 get_prefix_1 get_addr_1 get_addr_1

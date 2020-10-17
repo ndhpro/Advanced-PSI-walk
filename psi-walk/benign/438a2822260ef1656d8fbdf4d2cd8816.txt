@@ -1,2 +1,0 @@
-start_cc start_cc sub_461FDC sub_461FDC sub_45A7F8 sub_45A7F8
-start_cc start_cc sub_460B24 sub_460B24 sub_45C20C sub_45C20C tcapi_commit_req tcapi_commit_req sub_4673D0 sub_4673D0

@@ -1,8 +1,0 @@
-main main doscript doscript getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring gettoken gettoken serror serror vmsg vmsg
-main main doscript doscript getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getclose getclose serror serror vmsg vmsg
-main main doscript doscript getstring getstring getvalue getvalue getstring getstring getvalue getvalue gettoken gettoken serror serror vmsg vmsg
-main main doscript doscript getstring getstring getvalue getvalue getstring getstring getstringindex getstringindex getindex getindex serror serror vmsg vmsg
-main main doscript doscript getstring getstring getvalue getvalue gettoken gettoken serror serror vmsg vmsg
-main main doscript doscript getstring getstring getstringindex getstringindex getindex getindex serror serror vmsg vmsg
-main main doscript doscript getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue gettoken gettoken serror serror vmsg vmsg
-getonearg getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring gettoken gettoken serror serror vmsg vmsg

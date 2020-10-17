@@ -1,2 +1,0 @@
-main main HwNatGetAllEntries HwNatGetAllEntries
-main main HwNatSetVpriWeight HwNatSetVpriWeight

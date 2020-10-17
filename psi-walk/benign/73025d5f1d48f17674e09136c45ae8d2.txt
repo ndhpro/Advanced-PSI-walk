@@ -1,4 +1,0 @@
-main main options_from_file options_from_file sub_23434 sub_23434 int_option int_option option_error option_error vslprintf vslprintf
-main main options_from_file options_from_file sub_23434 sub_23434 option_error option_error vslprintf vslprintf
-main main options_from_file options_from_file getword getword die die remove_pidfiles remove_pidfiles
-main main auth_check_options auth_check_options sub_1FAE4 sub_1FAE4 sub_1F684 sub_1F684 getword getword die die remove_pidfiles remove_pidfiles

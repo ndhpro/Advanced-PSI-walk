@@ -1,5 +1,0 @@
-main main sub_40601C sub_40601C dhcp6_get_options dhcp6_get_options sub_40CB64 sub_40CB64 dhcp6_add_listval dhcp6_add_listval dprintf dprintf
-main main sub_40601C sub_40601C dhcp6_get_options dhcp6_get_options sub_40CB64 sub_40CB64 sub_4091E0 sub_4091E0
-main main sub_40601C sub_40601C dhcp6_get_options dhcp6_get_options sub_40BFFC sub_40BFFC dhcp6_add_listval dhcp6_add_listval dprintf dprintf
-main main sub_40601C sub_40601C sub_4055BC sub_4055BC sub_404D20 sub_404D20 dhcp6_set_options dhcp6_set_options sub_40999C sub_40999C dprintf dprintf
-main main dhcp6_ctl_acceptcommand dhcp6_ctl_acceptcommand sub_415598 sub_415598 dhcp6_ctl_readcommand dhcp6_ctl_readcommand sub_415598 sub_415598 dhcp6_ctl_readcommand dhcp6_ctl_readcommand sub_415598 sub_415598

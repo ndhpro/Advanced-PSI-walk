@@ -1,3 +1,0 @@
-main main sub_401008 sub_401008 read_pptp_packet read_pptp_packet sub_402818 sub_402818
-main main sub_401008 sub_401008 make_call_admin_shutdown make_call_admin_shutdown sub_402818 sub_402818
-main main read_pptp_packet read_pptp_packet sub_402818 sub_402818

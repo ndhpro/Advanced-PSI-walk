@@ -1,2 +1,0 @@
-main main tget tget sub_401B5C sub_401B5C
-main main tsend tsend

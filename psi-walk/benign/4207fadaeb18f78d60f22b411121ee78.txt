@@ -1,3 +1,0 @@
-main main sub_4041A0 sub_4041A0 sub_4040C8 sub_4040C8 sub_403F30 sub_403F30
-main main sub_4040C8 sub_4040C8 sub_403F30 sub_403F30
-ej_SiteSurvey ej_SiteSurvey char_to_ascii char_to_ascii

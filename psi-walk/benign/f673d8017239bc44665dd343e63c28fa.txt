@@ -1,3 +1,0 @@
-iptables_restore_main iptables_restore_main do_command4 do_command4 sub_D64C sub_D64C sub_D2FC sub_D2FC
-iptables_restore_main iptables_restore_main do_command4 do_command4 print_rule4 print_rule4 sub_DCD0 sub_DCD0
-iptables_xml_main iptables_xml_main sub_AD50 sub_AD50 sub_A95C sub_A95C

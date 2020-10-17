@@ -1,2 +1,0 @@
-sub_8E24 sub_8E24 sub_8ACC sub_8ACC sub_899C sub_899C
-sub_8E24 sub_8E24 sub_8D9C sub_8D9C

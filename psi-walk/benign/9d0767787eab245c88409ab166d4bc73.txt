@@ -1,3 +1,0 @@
-sub_430000 sub_430000 load_key load_key sub_43C82C sub_43C82C
-sub_430000 sub_430000 load_cert load_cert sub_43D668 sub_43D668
-enc_main enc_main set_hex set_hex

@@ -1,4 +1,0 @@
-_ftext _ftext sub_405810 sub_405810 sub_4040C0 sub_4040C0 sub_403D5C sub_403D5C sub_4038F8 sub_4038F8
-_ftext _ftext sub_405810 sub_405810 sub_4040C0 sub_4040C0 sub_40345C sub_40345C
-_ftext _ftext sub_405810 sub_405810 sub_40322C sub_40322C
-_ftext _ftext sub_406840 sub_406840 sub_406620 sub_406620

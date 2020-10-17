@@ -1,2 +1,0 @@
-main main FindAllApp FindAllApp SendHttpReq SendHttpReq
-main main sub_402C00 sub_402C00

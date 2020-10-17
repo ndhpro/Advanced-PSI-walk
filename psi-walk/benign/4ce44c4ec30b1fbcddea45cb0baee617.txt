@@ -1,3 +1,0 @@
-_ftext _ftext sub_406E90 sub_406E90 sub_406A4C sub_406A4C sub_403874 sub_403874 sub_40374C sub_40374C
-_ftext _ftext sub_406E90 sub_406E90 sub_406A4C sub_406A4C sub_403D54 sub_403D54
-sub_406E80 sub_406A4C sub_406A4C sub_403874 sub_403874 sub_40374C sub_40374C

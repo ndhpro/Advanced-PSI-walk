@@ -1,4 +1,0 @@
-main main primary_loop primary_loop udp_handle udp_handle rfc1305print rfc1305print contemplate_data contemplate_data polygon_point polygon_point find_shift find_shift
-main main primary_loop primary_loop udp_handle udp_handle rfc1305print rfc1305print contemplate_data contemplate_data find_df_center find_df_center
-main main primary_loop primary_loop udp_handle udp_handle rfc1305print rfc1305print save_time save_time
-main main do_replay do_replay contemplate_data contemplate_data polygon_point polygon_point find_shift find_shift

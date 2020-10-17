@@ -1,2 +1,0 @@
-sub_40DFEC sub_40DFEC set_wltxpower set_wltxpower wltxpower_rtn12hp wltxpower_rtn12hp setpoweroffset_rtn12hp setpoweroffset_rtn12hp
-sub_40DFEC sub_40DFEC stop_lan stop_lan init_nvram init_nvram conf_swmode_support conf_swmode_support

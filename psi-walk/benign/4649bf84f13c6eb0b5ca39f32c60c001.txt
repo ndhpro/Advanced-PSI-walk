@@ -1,3 +1,0 @@
-sub_14D0C sub_14D0C sub_49658 sub_49658 sub_495A4 sub_495A4 sub_460F4 sub_460F4
-sub_14D0C sub_14D0C sub_49658 sub_49658 sub_494FC sub_494FC sub_45C38 sub_45C38
-sub_14D0C sub_14D0C sub_11300 sub_11300 sub_10FDC sub_10FDC

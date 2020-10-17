@@ -1,2 +1,0 @@
-main main sub_401BE8 sub_401BE8 sub_401188 sub_401188
-main main sub_40102C sub_40102C

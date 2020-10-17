@@ -1,2 +1,0 @@
-get_persistent_name_path get_persistent_name_path get_persistent_type_dir get_persistent_type_dir
-get_persistent_names get_persistent_type_dir get_persistent_type_dir

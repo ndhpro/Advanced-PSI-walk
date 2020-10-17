@@ -1,5 +1,0 @@
-packetio_recv_handler state_process_packet smE_process_event osl_set_promisc die warn
-packetio_recv_handler state_process_packet smE_process_event band_UpdateStats warn
-packetio_recv_handler state_process_packet smT_process_event packetio_tx_qltlvResp tlv_write_tlv warn
-packetio_recv_handler qosrcvpkt sub_40AF0C warn
-smS_process_event smT_process_event packetio_tx_qltlvResp tlv_write_tlv warn

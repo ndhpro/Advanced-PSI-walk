@@ -1,3 +1,0 @@
-open_ubi libubi_open libubi_open read_positive_int read_positive_int read_positive_ll read_positive_ll
-open_ubi libubi_open libubi_open mkpath mkpath
-main main get_options get_options validate_options validate_options

@@ -1,4 +1,0 @@
-main main options_from_file options_from_file sub_41E984 sub_41E984 int_option int_option option_error option_error vslprintf vslprintf
-main main options_from_file options_from_file sub_41E984 sub_41E984 option_error option_error vslprintf vslprintf
-main main options_from_file options_from_file getword getword die die remove_pidfiles remove_pidfiles
-main main auth_check_options auth_check_options option_error option_error vslprintf vslprintf

@@ -1,6 +1,0 @@
-main main loadConfig loadConfig parsePhyintToken parsePhyintToken parseSubnetAddress parseSubnetAddress log log fmtInAdr fmtInAdr
-main main loadConfig loadConfig parsePhyintToken parsePhyintToken parseSubnetAddress parseSubnetAddress inetFmts inetFmts
-main main loadConfig loadConfig parsePhyintToken parsePhyintToken log log fmtInAdr fmtInAdr
-main main loadConfig loadConfig log log fmtInAdr fmtInAdr
-main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptLeaveMessage acceptLeaveMessage sendGroupSpecificMemberQuery sendGroupSpecificMemberQuery inetFmt inetFmt
-acceptGroupReport acceptGroupReport insertRoute insertRoute sendJoinLeaveUpstream sendJoinLeaveUpstream log log fmtInAdr fmtInAdr

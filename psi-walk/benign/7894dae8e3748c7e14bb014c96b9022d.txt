@@ -1,2 +1,0 @@
-main main usage usage send_request send_request
-main main print_table print_table

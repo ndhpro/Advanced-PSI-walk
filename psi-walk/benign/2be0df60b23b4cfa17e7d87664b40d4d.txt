@@ -1,4 +1,0 @@
-main main sub_40F84C sub_40F84C sub_40DD30 sub_40DD30 sub_40DC50 sub_40DC50
-main main sub_40F84C sub_40F84C sub_40DD30 sub_40DD30 _ZN6vectorIjEC2Ej
-main main sub_40F84C sub_40F84C sub_40F2D8 sub_40F2D8 sub_40F1F0 sub_40F1F0
-main main sub_4164B8 sub_4164B8

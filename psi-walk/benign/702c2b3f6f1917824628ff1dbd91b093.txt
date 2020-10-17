@@ -1,2 +1,0 @@
-main main sub_4547D4 sub_4547D4 sub_429B80 sub_429B80
-main main sub_4A9E70 sub_4A9E70 _ZN6vectorIjED2Ev

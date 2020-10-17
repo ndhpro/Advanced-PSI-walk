@@ -1,8 +1,0 @@
-sub_11434 sub_11434 sub_100D8 sub_100D8 sub_18534 sub_18534 sub_DD00 sub_DD00 sub_18DEC sub_18DEC sub_186EC sub_186EC sub_17AB0 sub_17AB0 sub_B02C sub_B02C sub_23E28 sub_23E28
-sub_11434 sub_11434 sub_100D8 sub_100D8 sub_18534 sub_18534 sub_DD00 sub_DD00 sub_18DEC sub_18DEC sub_186EC sub_186EC sub_B02C sub_B02C sub_23E28 sub_23E28
-sub_11434 sub_11434 sub_100D8 sub_100D8 sub_18534 sub_18534 sub_DD00 sub_DD00 sub_18DEC sub_18DEC sub_17AB0 sub_17AB0 sub_B02C sub_B02C sub_23E28 sub_23E28
-sub_11434 sub_11434 sub_100D8 sub_100D8 sub_18534 sub_18534 sub_DD00 sub_DD00 sub_B02C sub_B02C sub_23E28 sub_23E28
-sub_11434 sub_11434 sub_100D8 sub_100D8 sub_18534 sub_18534 sub_B02C sub_B02C sub_23E28 sub_23E28
-sub_11434 sub_11434 sub_100D8 sub_100D8 sub_FB14 sub_FB14 sub_18DEC sub_18DEC sub_186EC sub_186EC sub_17AB0 sub_17AB0 sub_B02C sub_B02C sub_23E28 sub_23E28
-sub_11434 sub_11434 sub_192AC sub_192AC sub_19100 sub_19100 sub_18CF4 sub_18CF4
-sub_96FC sub_21E0C sub_21E0C sub_19100 sub_19100 sub_18CF4 sub_18CF4

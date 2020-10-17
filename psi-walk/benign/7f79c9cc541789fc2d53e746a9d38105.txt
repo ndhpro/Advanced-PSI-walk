@@ -1,2 +1,0 @@
-main main nvram_save nvram_save get_rand get_rand
-main main sub_400AD0 sub_400AD0 get_rand get_rand

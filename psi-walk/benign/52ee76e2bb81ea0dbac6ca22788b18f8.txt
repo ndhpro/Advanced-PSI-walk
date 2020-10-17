@@ -1,2 +1,0 @@
-main main nvram_restore nvram_restore issyspara issyspara
-main main nvram_save nvram_save

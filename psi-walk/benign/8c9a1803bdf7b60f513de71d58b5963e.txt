@@ -1,5 +1,0 @@
-sub_4075F0 sub_4075F0 sub_40F248 sub_40F248 sub_40DD50 sub_40DD50 sub_406B70 sub_406B70 sub_405A2C sub_405A2C warn warn
-sub_4075F0 sub_4075F0 sub_40F248 sub_40F248 sub_40DD50 sub_40DD50 warn warn
-sub_4075F0 sub_4075F0 sub_40F248 sub_40F248 sub_40E1A8 sub_40E1A8 sub_406B70 sub_406B70 sub_405A2C sub_405A2C warn warn
-sub_4075F0 sub_4075F0 sub_406354 sub_406354 warn warn
-sub_4047D8 sub_4047D8 sub_4043B4 sub_4043B4 xmalloc xmalloc sub_405A2C sub_405A2C warn warn

@@ -1,3 +1,0 @@
-main main sub_403AD0 sub_403AD0 Config_read Config_read Query_config_from_driver Query_config_from_driver RT_ioctl RT_ioctl
-main main sub_403AD0 sub_403AD0 Config_read Config_read hostapd_get_rand hostapd_get_rand
-sub_404040 sub_404040 Config_read Config_read Query_config_from_driver Query_config_from_driver RT_ioctl RT_ioctl

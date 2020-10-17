@@ -1,4 +1,0 @@
-main main ProcessSSDPRequest ProcessSSDPRequest sub_4158A0 sub_4158A0 log_err log_err
-main main ProcessSSDPRequest ProcessSSDPRequest SearchClientCache SearchClientCache get_remote_mac get_remote_mac
-main main Process_upnphttp Process_upnphttp sub_408CE4 sub_408CE4 SearchClientCache SearchClientCache get_remote_mac get_remote_mac
-sub_40FD54 sub_40FD54 sub_410000 sub_410000 check_magic_container check_magic_container log_err log_err

@@ -1,3 +1,0 @@
-main main InitPeer InitPeer st_Login st_Login nvram_set_aae_status nvram_set_aae_status
-main main InitPeer InitPeer st_Login st_Login get_mac get_mac
-main main InitPeer InitPeer st_UpdateProfile st_UpdateProfile nvram_set_aae_status nvram_set_aae_status

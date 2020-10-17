@@ -1,3 +1,0 @@
-ip6tables_restore_main ip6tables_restore_main do_command6 do_command6 sub_1138C sub_1138C sub_10FC8 sub_10FC8
-ip6tables_restore_main ip6tables_restore_main do_command6 do_command6 print_rule6 print_rule6 sub_118CC sub_118CC
-iptables_xml_main iptables_xml_main sub_AC78 sub_AC78 sub_AA34 sub_AA34

@@ -1,5 +1,0 @@
-sub_10C4C sub_10C4C sub_10460 sub_10460 sub_EC44 sub_EC44 sub_9630 sub_9630 sub_14C8C sub_14C8C
-sub_10C4C sub_10C4C sub_10460 sub_10460 sub_EC44 sub_EC44 sub_9630 sub_9630 sub_13C58 sub_13C58
-sub_10C4C sub_10C4C sub_10460 sub_10460 sub_EC44 sub_EC44 sub_C448 sub_C448 sub_14BE0 sub_14BE0
-sub_10C4C sub_10C4C sub_10460 sub_10460 sub_10004 sub_10004
-sub_10C4C sub_10C4C sub_9394 sub_9394 sub_11FC4 sub_11FC4 sub_12294 sub_12294 sub_14A9C sub_14A9C

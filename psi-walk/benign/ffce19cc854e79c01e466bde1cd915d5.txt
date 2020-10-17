@@ -1,4 +1,0 @@
-main main process_rrb process_rrb l2_packet_send l2_packet_send dump_mem dump_mem
-main main process_rrb process_rrb aes_unwrap aes_unwrap
-main main read_config read_config parse_mac parse_mac
-sigHandler_user sigHandler_user handleDrvEvent handleDrvEvent dot11r_send_inform dot11r_send_inform l2_packet_send l2_packet_send dump_mem dump_mem

@@ -1,3 +1,0 @@
-main main start_ssl start_ssl erase_cert erase_cert
-main main send_login_page send_login_page sub_404894 sub_404894 sub_404628 sub_404628
-ej_wps_info wl_wps_info wl_wps_info getWPSAuthMode getWPSAuthMode

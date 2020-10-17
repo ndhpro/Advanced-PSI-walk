@@ -1,2 +1,0 @@
-_ftext _ftext sub_4016A0 sub_4016A0 sub_401544 sub_401544
-_ftext _ftext sub_4028EC sub_4028EC sub_401944 sub_401944

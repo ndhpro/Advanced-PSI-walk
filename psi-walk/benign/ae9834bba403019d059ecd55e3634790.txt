@@ -1,5 +1,0 @@
-sub_DE60 sub_DE60 sub_C63C sub_C63C sub_2D18C sub_2D18C sub_2CFD0 sub_2CFD0
-sub_DE60 sub_DE60 sub_C63C sub_C63C sub_2D18C sub_2D18C sub_2D03C sub_2D03C
-sub_DE60 sub_DE60 sub_C63C sub_C63C sub_1C518 sub_1C518 sub_2D03C sub_2D03C
-sub_DE60 sub_DE60 sub_C290 sub_C290 sub_21F04 sub_21F04 sub_1BAB0 sub_1BAB0 sub_2D03C sub_2D03C
-sub_233B8 sub_233B8 sub_22AD0 sub_22AD0 sub_227F8 sub_227F8 sub_1BAB0 sub_1BAB0 sub_2D03C sub_2D03C

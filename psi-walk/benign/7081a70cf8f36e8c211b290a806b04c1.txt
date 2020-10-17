@@ -1,2 +1,0 @@
-main main flash_write flash_write mtd_open mtd_open
-main main flash_erase flash_erase mtd_open mtd_open

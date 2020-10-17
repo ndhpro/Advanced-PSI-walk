@@ -1,2 +1,0 @@
-sub_16C44 sub_16C44 sub_FA00 sub_FA00
-sub_18384 sub_18384 sub_FA00 sub_FA00

@@ -1,2 +1,0 @@
-main main _ZN6vectorIjEC2Ej
-sub_404E48 sub_404AE8 sub_404AE8

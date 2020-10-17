@@ -1,4 +1,0 @@
-_ftext _ftext sub_4057EC sub_4057EC sub_40409C sub_40409C sub_403D38 sub_403D38 sub_4038D4 sub_4038D4
-_ftext _ftext sub_4057EC sub_4057EC sub_40409C sub_40409C sub_403438 sub_403438
-_ftext _ftext sub_4057EC sub_4057EC sub_403208 sub_403208
-_ftext _ftext sub_406700 sub_406700 sub_4064E0 sub_4064E0
