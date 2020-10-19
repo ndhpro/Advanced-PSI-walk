@@ -2,3 +2,5 @@
 __pycache__/
 
 psi_walk_v2.5/
+aug/
+rf.pickle

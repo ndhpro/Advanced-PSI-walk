@@ -16,7 +16,7 @@ from sklearn.svm import LinearSVC, SVC
 # from imblearn.over_sampling import SMOTE
 
 
-def report(names, y_true, y_pred, train_t, test_t):
+def report(save_path, names, y_true, y_pred, train_t, test_t):
     columns = ["Classifier", "Accuracy", "ROC AUC", "FPR", "Precision", "Recall",
                "F1-score", "Training time", "Testing time", "TP", "FP", "TN", "FN"]
     report = list()
@@ -40,10 +40,10 @@ def report(names, y_true, y_pred, train_t, test_t):
         report.append(row)
 
     pd.DataFrame(report, columns=columns).to_csv(
-        "result/result.csv", index=None)
+        f"log/{save_path}/result.csv", index=None)
 
 
-def draw_roc(names, colors, y_true, y_pred):
+def draw_roc(save_path, names, colors, y_true, y_pred):
     plt.figure()
     for name, color in zip(names, colors):
         fpr, tpr, _ = metrics.roc_curve(y_true[name], y_pred[name])
@@ -57,10 +57,10 @@ def draw_roc(names, colors, y_true, y_pred):
     plt.ylabel("Sensitivity(True Positive Rate)")
     plt.title("Receiver Operating Characteristic")
     plt.legend(loc="lower right")
-    plt.savefig(f"result/roc.png", dpi=300)
+    plt.savefig(f"log/{save_path}/roc.png", dpi=300)
 
 
-def preprocessing(X_train, X_test, y_train, y_test):
+def preprocessing(save_path, X_train, X_test, y_train, y_test):
     # sm = SMOTE(random_state=2020)
     # X_train, y_train = sm.fit_resample(X_train, y_train)
 
@@ -68,18 +68,18 @@ def preprocessing(X_train, X_test, y_train, y_test):
         LinearSVC(penalty="l1", dual=False, random_state=2020).fit(X_train, y_train), prefit=True)
     X_train = fs.transform(X_train)
     X_test = fs.transform(X_test)
-    pickle.dump(fs, open(f'result/model/fs.pickle', 'wb'))
+    pickle.dump(fs, open(f'log/{save_path}/fs.pickle', 'wb'))
 
     scaler = StandardScaler()
     X_train = scaler.fit_transform(X_train)
     X_test = scaler.transform(X_test)
-    pickle.dump(scaler, open(f'result/model/scaler.pickle', 'wb'))
+    pickle.dump(scaler, open(f'log/{save_path}/scaler.pickle', 'wb'))
     return X_train, X_test, y_train, y_test
 
 
-def classify(X_train, X_test, y_train, y_test):
+def classify(save_path, X_train, X_test, y_train, y_test):
     X_train, X_test, y_train, y_test = preprocessing(
-        X_train, X_test, y_train, y_test)
+        save_path, X_train, X_test, y_train, y_test)
 
     print("Processed dataset size: ", X_train.shape, X_test.shape)
     y_true, y_pred, train_t, test_t = {}, {}, {}, {}
@@ -124,7 +124,7 @@ def classify(X_train, X_test, y_train, y_test):
         acc = 100 * metrics.accuracy_score(y_true[name], y_pred[name])
         print("Accuracy: %0.2f." % acc)
 
-        pickle.dump(clf, open(f"result/model/{fname}.pickle", "wb"))
+        pickle.dump(clf, open(f"log/{save_path}/{fname}.pickle", "wb"))
 
-    report(names, y_true, y_pred, train_t, test_t)
-    draw_roc(names, colors, y_true, y_pred)
+    report(save_path, names, y_true, y_pred, train_t, test_t)
+    draw_roc(save_path, names, colors, y_true, y_pred)
