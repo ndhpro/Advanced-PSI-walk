@@ -1,0 +1,40 @@
+/home/server1/Downloads/psi_graph_v2/benign/129700331cc22c4de27a76ef87c78649.txt
+/home/server1/Downloads/psi_graph_v2/malware/258130ed3c2b308bfbc023cf5f9a6309.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/9105cc2c01901b628327425860fa7fa9.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/a0f6a254b77bfe28fb4f95b17d1b5d1c.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/15ad3c234a568eb144cd70f3db960804.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/e7f48a3b227eff101ae229aab42ce678.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/benign/28c55562afa14f76c62f079ac53b7020.txt
+Label: 0
+/home/server1/Downloads/psi_graph_v2/malware/deed855570a6d56491242f0f3f0ca938.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/benign/ec63704dadaabe3dcd3f3075e5194498.txt
+Label: 0
+/home/server1/Downloads/psi_graph_v2/malware/197299a5c6c9be479a95a035b202ba34.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/7c2041f313b6d0c5ca01f6dfcddf1991.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/ba641fd88f090b4876d73abbf222eae1.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/15a87ca9da8e94f5aa7bb0eabd9c074d.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/benign/5c1787700a92a78da13deee766db8bb7.txt
+Label: 0
+/home/server1/Downloads/psi_graph_v2/malware/ac9906e6cf5bf91a9ddb875b5a4dcd05.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/ba0edf4dafe53fc27acec62b48ee47e2.txt
+/home/server1/Downloads/psi_graph_v2/malware/32e46b828c1bcb9c58fa1f619adac856.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/bf43ffb0a933e46fdb7aeaef674f07ee.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/f393a970ef6a98cbd5e2d7961a71fee2.txt
+Label: 1
+/home/server1/Downloads/psi_graph_v2/malware/aa1011efb283d097070e20e6a26fb16f.txt
+Label: 1
+Avg extr time: 6.52 seconds (18 samples)
+Avg pred time: 0.11 seconds (18 samples)

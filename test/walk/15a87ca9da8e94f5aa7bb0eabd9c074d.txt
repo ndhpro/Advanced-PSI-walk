@@ -1,0 +1,3 @@
+scan scan inet_addr inet_aton
+scan scan fork
+processCmd HtmlAttack HtmlAttack read __read_nocancel

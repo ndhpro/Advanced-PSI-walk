@@ -92,7 +92,7 @@ def get_path(env, Q, j):
 
 
 def get_final_path(path, env, RL, steps, all_costs):
-    f_path = Path('results/') / (Path(path).stem + '.txt')
+    f_path = Path('test/walk/') / (Path(path).stem + '.txt')
     Q_ = [RL.get_q_table(i) for i in range(2)]
     Q = list()
     qid = 0 if len(Q_[0].index) > len(Q_[1].index) else 1
