@@ -1,6 +1,0 @@
-Classifier,Accuracy,ROC AUC,FPR,Precision,Recall,F1-score,Training time,Testing time,TP,FP,TN,FN
-Naive Bayes,83.7,42.97,100.0,97.0,85.93,91.13,1.21,0.0,226,7,0,37
-Decision Tree,96.67,49.62,100.0,97.39,99.24,98.31,1.8,0.0,261,7,0,2
-k-Nearest Neighbors,97.41,50.0,100.0,97.41,100.0,98.69,8.98,0.1,263,7,0,0
-SVM,97.41,50.0,100.0,97.41,100.0,98.69,173.18,0.09,263,7,0,0
-Random Forest,97.41,50.0,100.0,97.41,100.0,98.69,84.06,0.1,263,7,0,0
